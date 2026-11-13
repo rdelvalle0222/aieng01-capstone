@@ -1,0 +1,24 @@
+Hay **17 tickets esperando respuesta del Proveedor 1**.
+
+⚠️ **CRÍTICO**: 14 tickets en estado crítico, algunos con **más de 6 meses de espera**:
+
+| ID | Empresa | Días | Prioridad |
+|---|---|---|---|
+| T-1135 | Empresa A | 397 | Crítica |
+| T-1136 | Empresa A | 251 | Crítica |
+| T-1141 | Empresa A | 235 | Crítica |
+| T-1144 | Empresa A | 215 | Crítica |
+| T-1113 | Empresa A | 190 | Crítica |
+| T-1127 | Empresa B | 188 | Crítica |
+| T-1143 | Empresa B | 169 | Crítica |
+| T-1132 | Empresa A | 152 | Crítica |
+| T-1116 | Empresa D | 145 | Crítica |
+| T-1133 | Empresa B | 145 | Crítica |
+| T-1108 | Empresa A | 88 | Crítica |
+| T-1099 | Empresa B | 84 | Crítica |
+| T-1102 | Empresa D | 76 | Crítica |
+| T-1105 | Empresa A | 194 | Crítica |
+
+Además: 2 de Alta/Media (T-1045, T-1014) y 1 de Media (T-1014).
+
+**Recomendación:** Escalalar con Proveedor 1 o buscar alternativa urgente.

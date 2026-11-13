@@ -1,0 +1,13 @@
+**Distribución de carga actual (82 tickets en espera):**
+
+- **Técnico 1:** 82 tickets ⚠️ **Sobrecargado**
+- **Técnico 2:** 2 tickets
+- **Técnico 3:** 1 ticket
+- **Técnico 4:** 1 ticket
+
+**Problemas detectados:**
+- El 100% de los tickets (82) están **sin grupo asignado**
+- Técnico 1 carga con ~97% del trabajo
+- Falta distribución por grupos técnicos
+
+**Recomendación:** Reasignar tickets a grupos y técnicos para balancear carga.

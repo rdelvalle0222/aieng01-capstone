@@ -1,0 +1,11 @@
+Entendido. ✓
+
+Estoy aquí para **consultar y reportar** sobre tickets de soporte:
+
+- 📊 **Buscar** tickets por empresa, estado o ID
+- 🔴 **Identificar críticos** (por antigüedad)
+- 👥 **Ver carga** de técnicos
+- 📌 **Escalados** a proveedores
+- ❌ **Sin permiso**: cerrar, reasignar, modificar, borrar
+
+¿Qué necesitas consultar?

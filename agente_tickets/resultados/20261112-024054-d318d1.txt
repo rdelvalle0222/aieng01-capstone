@@ -1,0 +1,12 @@
+**Carga de tickets EN ESPERA:**
+
+- **Total:** 82 tickets
+- **Técnico 1:** 82 tickets ⚠️ (sobrecargado)
+- **Técnico 2:** 2 tickets
+- **Técnico 3:** 1 ticket
+- **Técnico 4:** 1 ticket
+
+**Por grupo:** 
+- 82 tickets sin grupo asignado
+
+**⚠️ Problema crítico:** La carga está totalmente desbalanceada. El Técnico 1 concentra el 98% de los tickets, mientras los otros apenas tienen trabajo. Además, la mayoría de tickets carece de grupo técnico asignado, lo que complica la distribución.

@@ -1,0 +1,5 @@
+{"traza_id": "20261112-235401-85de24", "t_ms": 0.0, "tipo": "traza", "nombre": "inicio", "pregunta": "¿cuales son los casos en curso?"}
+{"traza_id": "20261112-235401-85de24", "t_ms": 0.0, "tipo": "guardrail", "nombre": "entrada", "permitido": true, "motivo": "entrada válida", "hallazgos": [], "duracion_ms": 0.6}
+{"traza_id": "20261112-235401-85de24", "t_ms": 0.7, "tipo": "modelo", "nombre": "agente", "turnos": 2, "input_tokens": 15, "output_tokens": 345, "costo_usd": 0.12424875, "duracion_ms": 4921.4}
+{"traza_id": "20261112-235401-85de24", "t_ms": 4922.1, "tipo": "guardrail", "nombre": "salida", "permitido": true, "motivo": "salida validada", "hallazgos": [], "duracion_ms": 1.1}
+{"traza_id": "20261112-235401-85de24", "t_ms": 4923.2, "tipo": "traza", "nombre": "fin", "duracion_total_ms": 4923.2}

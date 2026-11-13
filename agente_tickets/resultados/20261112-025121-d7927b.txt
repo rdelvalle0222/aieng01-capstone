@@ -1,0 +1,13 @@
+**Carga actual de tickets EN ESPERA:**
+
+- **Total:** 82 tickets
+- **Distribución por técnico:**
+  - 🔴 **Técnico 1:** 82 tickets (100% de la carga)
+  - **Técnico 2:** 2 tickets
+  - **Técnico 3:** 1 ticket
+  - **Técnico 4:** 1 ticket
+
+- **Por grupo técnico:**
+  - ⚠️ **Sin grupo asignado:** 82 tickets (no están repartidos en grupos)
+
+**Conclusión:** La carga está completamente desbalanceada. El Técnico 1 lleva toda la carga, mientras que los otros tienen apenas trabajo. Todos los tickets están sin grupo asignado, lo que sugiere que no hay una distribución automática.

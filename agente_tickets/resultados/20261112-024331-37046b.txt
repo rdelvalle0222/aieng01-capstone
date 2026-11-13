@@ -1,0 +1,10 @@
+**Empresa A tiene 43 tickets críticos en espera.**
+
+**Distribución de prioridades:**
+- 🔴 **Crítica:** 43 tickets
+- 🟠 **Alta:** 8 tickets  
+- 🟡 **Media:** 2 tickets
+
+**Ticket más antiguo:** T-1129 (656 días pendientes)
+
+⚠️ **Alerta:** Todos los críticos están asignados a Técnico 1. Hay una carga concentrada que requiere atención urgente.

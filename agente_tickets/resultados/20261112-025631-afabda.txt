@@ -1,0 +1,10 @@
+**Distribución de carga (tickets EN ESPERA):**
+
+- **Técnico 1**: 82 tickets ⚠️
+- **Técnico 2**: 2 tickets
+- **Técnico 3**: 1 ticket
+- **Técnico 4**: 1 ticket
+
+**Por grupo**: 82 tickets sin grupo asignado
+
+**⚠️ Crítico**: El Técnico 1 tiene el **99% de la carga** (82 de 83 tickets). La distribución está muy desequilibrada. Es urgente reasignar tickets o asignar grupo técnico para balancear.

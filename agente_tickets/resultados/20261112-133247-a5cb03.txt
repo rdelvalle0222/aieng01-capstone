@@ -1,0 +1,8 @@
+**Carga muy desbalanceada:**
+
+- **Técnico 1**: 82 tickets (99% de la carga) — SIN GRUPO ASIGNADO
+- **Técnico 2**: 2 tickets
+- **Técnico 3**: 1 ticket
+- **Técnico 4**: 1 ticket
+
+⚠️ **Crítico**: 82 de 87 tickets en espera no tienen grupo técnico asignado y están concentrados en un solo técnico.

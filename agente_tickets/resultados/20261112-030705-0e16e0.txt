@@ -1,0 +1,7 @@
+✅ **Resumen de tickets abiertos:**
+
+- **Total:** 153 tickets
+- **En espera:** 82 tickets  
+- **En curso (asignado):** 71 tickets
+
+El 54% de los tickets están pendientes de resolución. ¿Necesitas saber más sobre los tickets críticos o la carga por técnico?

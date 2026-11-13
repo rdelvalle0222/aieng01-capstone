@@ -1,0 +1,13 @@
+**Carga de trabajo de técnicos:**
+
+- **Técnico 1**: 82 tickets EN ESPERA
+- **Técnico 2**: 2 tickets EN ESPERA  
+- **Técnico 3**: 1 ticket EN ESPERA
+- **Técnico 4**: 1 ticket EN ESPERA
+
+**Observación crítica:**
+- 82 de 87 tickets EN ESPERA no tienen grupo asignado
+- La carga está **extremadamente desbalanceada**: el Técnico 1 lleva casi toda la carga
+- Recomendación: reasignar tickets del Técnico 1 a otros técnicos o crear grupos de trabajo para distribuir mejor
+
+¿Quieres que analice tickets críticos o antiguos que podrían necesitar reasignación urgente?

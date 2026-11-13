@@ -1,0 +1,14 @@
+**Carga de tickets EN ESPERA: 82 tickets**
+
+📊 **Por técnico:**
+- **Técnico 1**: 82 tickets ⚠️ SOBRECARGADO
+- **Técnico 2**: 2 tickets
+- **Técnico 3**: 1 ticket
+- **Técnico 4**: 1 ticket
+
+🚨 **Problema crítico:**
+- **82 tickets sin grupo asignado** → la mayoría están cayendo al Técnico 1
+- Desequilibrio severo: 1 técnico con 97% de la carga
+
+✅ **Recomendación:**
+Reasignar tickets a otros técnicos o formar grupos de trabajo para distribuir la carga.

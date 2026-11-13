@@ -1,0 +1,9 @@
+Hay **5 tickets críticos** escalados al Proveedor 2:
+
+• **T-1135** — 397 días pendientes 🔴 (Empresa A, Desarrollo)
+• **T-1110** — 89 días (Empresa A, APEX/Querys)
+• **T-1102** — 76 días (Empresa D, Aplicativos)
+• **T-1090** — 55 días (Empresa E, ERP Cuentas por Cobrar)
+• **T-1065** — 41 días (Empresa D, Otras plataformas)
+
+Todos asignados a **Técnico 1** y todos en estado **En espera**. El T-1135 lleva casi 13 meses pendiente del proveedor.

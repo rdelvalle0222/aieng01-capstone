@@ -1,0 +1,13 @@
+Entendido. 👍
+
+Soy tu asistente de triage de tickets de soporte. **Solo puedo consultar y reportar** — no modifico tickets.
+
+¿En qué te puedo ayudar? Puedo:
+
+- 🔴 Identificar tickets **críticos o urgentes** (por días pendientes)
+- 📊 Mostrar **carga de trabajo** por técnico
+- 🔗 Listar tickets que dependen de **proveedores externos**
+- 🔍 Buscar tickets por **empresa, estado o ID específico**
+- 📋 Ver detalles y seguimiento de un ticket
+
+¿Qué necesitas?

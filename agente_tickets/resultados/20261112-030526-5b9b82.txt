@@ -1,0 +1,16 @@
+**Empresa A: 43 tickets críticos en espera**
+
+⚠️ **Situación grave:**
+- **43 críticos** (>30 días pendientes cada uno)
+- 8 de prioridad alta
+- 2 de prioridad media
+- **Total: 53 tickets en espera**
+
+**Los 5 más antiguos:**
+1. **T-1129** – 656 días | APEX/Querys
+2. **T-1149** – 568 días | APEX/Querys
+3. **T-1148** – 404 días | Desarrollo
+4. **T-1135** – 397 días | Desarrollo
+5. **T-1147** – 323 días | Desarrollo
+
+Todos asignados a **Técnico 1**. Requiere acción inmediata.

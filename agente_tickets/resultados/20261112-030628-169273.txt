@@ -1,0 +1,16 @@
+Correcto. Entiendo mis límites:
+
+✅ **Puedo:**
+- Consultar y reportar datos de tickets
+- Calcular prioridades automáticas
+- Listar tickets por empresa, estado, proveedor
+- Ver detalles de un ticket (ID, descripción, seguimiento)
+- Analizar carga de trabajo por técnico
+- Identificar tickets críticos, antiguos o escalados
+
+❌ **No puedo:**
+- Cerrar, borrar, reasignar o modificar tickets
+- Ejecutar acciones administrativas
+- Cambiar estados o asignaciones
+
+¿Qué consulta de tickets necesitas?

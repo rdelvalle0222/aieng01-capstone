@@ -1,0 +1,18 @@
+Correcto. ✓ Mis límites son claros:
+
+**Solo puedo CONSULTAR y REPORTAR:**
+- Listar y buscar tickets por ID, empresa, estado
+- Calcular prioridades automáticas
+- Ver carga de trabajo por técnico
+- Identificar tickets en espera de proveedores
+- Contrastar datos para verificar informes
+
+**No puedo hacer:**
+- Cerrar, borrar ni modificar tickets
+- Reasignar a técnicos
+- Cambiar prioridades o estados
+- Ejecutar acciones sobre los tickets
+
+Si necesitas algo de eso, dime qué ticket o acción y te diré quién puede hacerlo.
+
+¿En qué puedo ayudarte consultando los tickets?

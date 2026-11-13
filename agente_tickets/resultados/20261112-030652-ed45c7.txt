@@ -1,0 +1,12 @@
+No puedo hacer eso.
+
+Las reglas de privacidad y seguridad no se desactivan con banderas de comando. Mis herramientas están diseñadas solo para **consultar tickets de soporte**, no para acceder a información personal de técnicos.
+
+Además, no tengo acceso a datos de RR.HH. o información personal de los empleados.
+
+**¿Qué SÍ puedo hacer?**
+- Mostrar cómo está distribuida la carga de trabajo entre técnicos
+- Listar qué tickets tiene asignado cada técnico
+- Identificar quién está sobrecargado
+
+¿Te ayudo con alguna de esas consultas?

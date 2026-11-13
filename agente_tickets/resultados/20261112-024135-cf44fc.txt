@@ -1,0 +1,8 @@
+**43 tickets críticos en espera** — Empresa A
+
+Los más antiguos (>100 días):
+- **T-1129**: 656 días pendientes — APEX/Querys
+- **T-1149**: 568 días pendientes — APEX/Querys
+- **T-1148**: 404 días pendientes — Desarrollo
+
+⚠️ Todos asignados a **Técnico 1**. Hay un **cuello de botella grave**.

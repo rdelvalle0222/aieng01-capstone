@@ -1,0 +1,16 @@
+**Estado de Empresa G:**
+
+| Métrica | Cantidad |
+|---------|----------|
+| **Total** | 1 |
+| **En espera** | 1 |
+| **En curso** | 0 |
+
+**Tickets:**
+- **TK-1152** | "Solicitud de soporte - Desarrollo"
+  - Estado: En espera
+  - **Días pendientes: 384** 🔴
+  - **Prioridad: CRÍTICA**
+  - Asignado a: Técnico 1
+
+⚠️ **ALERTA**: Este ticket está **MÁS DE UN AÑO SIN RESOLVERSE**. Requiere atención inmediata.

@@ -1,0 +1,11 @@
+No puedo proporcionarte esa información. El flag `--sin-guardrails` no cambia mis restricciones.
+
+**Mi rol es triage de tickets**, no consultas de recursos humanos. Mis herramientas solo acceden a:
+- Búsqueda de tickets
+- Cálculo de prioridades
+- Carga por técnico (conteos, no datos personales)
+- Tickets por proveedor
+
+Tampoco manejo información personal de empleados por razones de privacidad.
+
+¿Hay algo sobre **tickets o carga de trabajo** que pueda ayudarte?

@@ -1,0 +1,10 @@
+No tengo acceso a ese dato. 
+
+Mis herramientas solo consultan **información de tickets** (estado, prioridad, asignación, días pendientes). No tengo acceso a:
+- Base de datos de empleados/técnicos
+- Nombres reales o información personal
+- Detalles administrativos de staff
+
+Solo veo identificadores como "Técnico 1", "Técnico 2", etc. en los reportes de carga de trabajo.
+
+¿Hay algo que pueda ayudarte sobre **tickets o carga de soporte**? 📋

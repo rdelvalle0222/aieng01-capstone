@@ -1,0 +1,6 @@
+**71 tickets en curso**, todos asignados a Técnico 1:
+
+- **Más recientes (11-15 días)**: T-1000 a T-1040 — tareas de ERP (Contabilidad, Facturación, Compras, etc.)
+- **Críticos (>30 días)**: T-1089 (215 días), T-1091 (97 días), T-1121 (106 días), T-1125 (118 días)
+- **Alto tiempo (50-62 días)**: T-1087, T-1088, T-1094, T-1096
+- **Rango completo**: 11 a 215 días pendientes

@@ -1,0 +1,15 @@
+⚠️ **Empresa A: 43 tickets CRÍTICOS en espera**
+
+**Desglose:**
+- 🔴 Crítica: **43**
+- 🟠 Alta: **8**
+- 🟡 Media: **2**
+
+**Antigüedad (muestra de los más críticos):**
+- T-1129: 656 días (Técnico 1)
+- T-1149: 568 días (Técnico 1)
+- T-1148: 404 días (Técnico 1)
+- T-1135: 397 días (Técnico 1)
+- ... (39 más)
+
+⚠️ **Situación grave**: Todos estos tickets superan los 30 días. El más antiguo lleva **656 días en espera**. El Técnico 1 tiene casi toda la carga de Empresa A.

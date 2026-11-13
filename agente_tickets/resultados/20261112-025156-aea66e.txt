@@ -1,0 +1,13 @@
+**Empresa A: 43 tickets críticos en espera**
+
+📊 Desglose por prioridad:
+- 🔴 **Crítica**: 43 tickets
+- 🟠 **Alta**: 8 tickets  
+- 🟡 **Media**: 2 tickets
+
+⚠️ **Alerta**: Los más antiguos superan 600 días:
+- T-1129: 656 días
+- T-1149: 568 días
+- T-1148: 404 días
+
+Todos están asignados al **Técnico 1**. La carga es crítica y requiere intervención inmediata.

@@ -1,0 +1,16 @@
+**⚠️ ALERTA CRÍTICA**
+
+Hay **17 tickets esperando al Proveedor 1**, todos con el mismo técnico (Técnico 1):
+
+**Por prioridad:**
+- 🔴 **14 CRÍTICOS** (>30 días pendientes)
+- 🟠 **1 Alto** (20 días: T-1045)
+- 🟡 **2 Medios** (12 días: T-1014)
+
+**Tickets más antiguos:**
+- T-1135: 397 días
+- T-1136: 251 días
+- T-1141: 235 días
+- T-1144: 215 días
+
+**⚠️ Se requiere urgentemente escalar estos tickets con Proveedor 1 o reasignarlos.**

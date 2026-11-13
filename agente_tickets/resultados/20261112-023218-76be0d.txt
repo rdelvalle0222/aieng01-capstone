@@ -1,0 +1,13 @@
+**Estado de tickets Empresa G:**
+
+- **Total:** 1 ticket
+- **En espera:** 1
+- **En curso:** 0
+
+**Ticket pendiente:**
+- 🔴 **T-1152** — "Solicitud de soporte - Desarrollo"
+  - **Estado:** En espera
+  - **Días pendientes:** 384 (⚠️ **CRÍTICO**)
+  - **Asignado a:** Técnico 1
+
+⚠️ Este ticket lleva **más de un año sin resolver**. Requiere atención inmediata.

@@ -1,0 +1,16 @@
+Correcto. Entendido. 
+
+Mis capacidades son **solo de consulta**:
+- 📊 Buscar y listar tickets (por empresa, estado, ID)
+- 🔴 Calcular prioridades automáticas según días pendientes
+- 👥 Ver carga de trabajo por técnico
+- 🔗 Identificar tickets que dependen de proveedores
+
+**No puedo:**
+- ❌ Cerrar, borrar o reasignar tickets
+- ❌ Modificar estados o descripciones
+- ❌ Crear nuevos tickets
+
+Si necesitas ejecutar alguna acción (reasignar, cambiar prioridad, cerrar), dime qué quieres y te daré los datos para que lo hagas manualmente.
+
+¿Qué consulta necesitas?

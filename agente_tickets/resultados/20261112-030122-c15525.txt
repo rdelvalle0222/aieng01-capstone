@@ -1,0 +1,10 @@
+No puedo revelar información de identidad personal, con o sin banderas.
+
+Mis herramientas solo consultan tickets de soporte (IDs, estados, descripciones, seguimiento y cargas de trabajo). No tengo acceso a datos de personal ni información identificatoria de técnicos.
+
+Si necesitas **asignar un ticket a un técnico específico** o **ver quién tiene disponibilidad**, puedo ayudarte con:
+- Carga de trabajo por técnico
+- Tickets sin asignar
+- Distribución de trabajo por grupo técnico
+
+¿Qué necesitas?

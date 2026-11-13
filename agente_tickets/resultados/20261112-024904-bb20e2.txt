@@ -1,0 +1,16 @@
+**Resumen verificado:**
+
+- **17 tickets totales** esperando Proveedor 1
+- **15 CRÍTICOS** (alerta roja 🔴)
+- **2 no críticos:** T-1014 (Media, 12 días), T-1045 (Alta, 20 días)
+- **Más antiguo:** T-1135 con **397 días** sin resolver (abierto desde oct 2025)
+
+**Otros críticos con >150 días:**
+- T-1105: 194 días
+- T-1113: 190 días
+- T-1127: 188 días
+- T-1141: 235 días
+- T-1136: 251 días
+- T-1144: 215 días
+
+⚠️ **Este proveedor tiene un cuello de botella severo.** Todos los tickets están en espera y 15 son críticos por antigüedad.

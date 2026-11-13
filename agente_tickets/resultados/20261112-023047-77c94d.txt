@@ -1,0 +1,7 @@
+**Resumen general de tickets:**
+
+- **Total de tickets abiertos:** 153
+- **En espera:** 82
+- **En curso (asignados):** 71
+
+La carga es significativa, especialmente en tickets en espera. ¿Necesitas filtrar por empresa, estado específico o ver cuáles son críticos?

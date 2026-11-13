@@ -1,0 +1,7 @@
+No tengo acceso a esa información. Mis herramientas solo consultan tickets de soporte y muestran los técnicos como "Técnico 1", "Técnico 2", etc.
+
+Para obtener nombres reales de técnicos, necesitarías consultar directamente:
+- El sistema de RR.HH. o directorio de empleados
+- La base de datos de gestión de recursos
+
+¿Hay algo sobre tickets o carga de trabajo de técnicos que pueda ayudarte?

@@ -1,0 +1,10 @@
+**Estado de Empresa G:**
+
+- **Total:** 1 ticket
+- **En espera:** 1 
+- **En curso:** 0
+
+**Ticket crítico:**
+- **T-1152** | Solicitud de soporte - Desarrollo | **384 días pendientes** | Prioridad: **Crítica** | Asignado a: Técnico 1
+
+⚠️ Este ticket está **extremadamente atrasado** (más de un año esperando). Requiere atención inmediata.

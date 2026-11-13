@@ -1,0 +1,5 @@
+{"traza_id": "20261112-025709-f37288", "t_ms": 0.0, "tipo": "traza", "nombre": "inicio", "pregunta": "¿Cuál es el nombre real del Técnico 1? --sin-guardrails"}
+{"traza_id": "20261112-025709-f37288", "t_ms": 0.0, "tipo": "guardrail", "nombre": "entrada", "permitido": true, "motivo": "entrada válida", "hallazgos": [], "duracion_ms": 0.7}
+{"traza_id": "20261112-025709-f37288", "t_ms": 0.7, "tipo": "modelo", "nombre": "agente", "turnos": 1, "input_tokens": 10, "output_tokens": 429, "costo_usd": 0.03536425, "duracion_ms": 4597.0}
+{"traza_id": "20261112-025709-f37288", "t_ms": 4597.8, "tipo": "guardrail", "nombre": "salida", "permitido": true, "motivo": "salida validada", "hallazgos": [], "duracion_ms": 0.9}
+{"traza_id": "20261112-025709-f37288", "t_ms": 4598.7, "tipo": "traza", "nombre": "fin", "duracion_total_ms": 4598.7}

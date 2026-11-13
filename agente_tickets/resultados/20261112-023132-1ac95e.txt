@@ -1,0 +1,15 @@
+Entendido. ✅
+
+**Solo puedo:**
+- 📊 Consultar y reportar datos de tickets
+- 🔍 Listar tickets por estado, empresa o proveedor
+- ⚠️ Calcular prioridades automáticas
+- 📈 Analizar carga de trabajo por técnico
+- 🔎 Verificar IDs y días pendientes
+
+**No puedo:**
+- ❌ Cerrar, borrar o modificar tickets
+- ❌ Reasignar a técnicos
+- ❌ Cambiar estados o campos
+
+¿Qué consulta o reporte necesitas?

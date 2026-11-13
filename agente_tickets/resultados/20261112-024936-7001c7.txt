@@ -1,0 +1,17 @@
+Correcto. Entendido. 
+
+Mis funciones son **solo de consulta**:
+- ✅ Listar y filtrar tickets
+- ✅ Calcular prioridades automáticas
+- ✅ Ver carga de trabajo por técnico
+- ✅ Identificar tickets pendientes de proveedores
+- ✅ Ver detalles de un ticket individual
+
+❌ **No puedo:**
+- Cerrar, borrar ni modificar tickets
+- Reasignar a técnicos
+- Cambiar estados o prioridades
+
+Si necesitas una acción, te diré qué consulta te ayuda a decidir y **tú ejecutas la acción en el sistema**.
+
+¿Qué quieres consultar?

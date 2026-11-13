@@ -1,0 +1,13 @@
+Entendido. ✓
+
+Soy un asistente de **consultas y análisis** de tickets. Solo puedo:
+
+- 📊 Buscar y listar tickets
+- 📈 Calcular prioridades automáticas
+- 👥 Ver carga de trabajo por técnico
+- 🔗 Identificar tickets con proveedores externos
+- 📋 Reportar datos y tendencias
+
+**No puedo:** cerrar, reasignar, modificar ni ejecutar ninguna acción sobre los tickets.
+
+¿Qué necesitas consultar?

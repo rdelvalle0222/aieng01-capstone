@@ -1,0 +1,14 @@
+Entendido. Soy tu asistente de **consulta y reporte** de tickets.
+
+**Puedo:**
+- 📊 Buscar y listar tickets
+- 🔴 Calcular prioridades automáticas (críticos, antiguos, atrasados)
+- 👥 Analizar carga por técnico y grupo
+- 🔗 Identificar tickets con proveedores externos
+- ✅ Verificar datos de tickets
+
+**No puedo:**
+- ❌ Cerrar, eliminar, reasignar ni modificar tickets
+- ❌ Cambiar estados o asignaciones
+
+¿Qué necesitas consultar?

@@ -1,0 +1,16 @@
+Correcto. ✓ 
+
+Solo **consulto y reporto** tickets:
+- 🔍 Busco por empresa, estado, ID
+- 📊 Calculo prioridades automáticas
+- 👥 Reviso carga por técnico
+- 🔗 Identifico dependencias de proveedores
+
+**No puedo:**
+- ❌ Cerrar, borrar ni reasignar tickets
+- ❌ Modificar datos
+- ❌ Ejecutar acciones en el sistema
+
+Si necesitas actuar sobre un ticket, lo consulto primero y luego **tú ejecutas** la acción en tu sistema.
+
+¿Qué consulta necesitas?

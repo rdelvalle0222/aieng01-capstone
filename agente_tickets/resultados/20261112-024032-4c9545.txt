@@ -1,0 +1,11 @@
+⚠️ **Empresa A: 43 tickets CRÍTICOS en espera**
+
+**Desglose por prioridad:**
+- 🔴 **Crítica:** 43 tickets
+- 🟠 **Alta:** 8 tickets  
+- 🟡 **Media:** 2 tickets
+
+**Ticket más antiguo:**
+- T-1129: 656 días en espera (APEX/Querys)
+
+Todos los críticos están asignados al Técnico 1, que tiene una carga de trabajo extremadamente pesada. Recomiendo revisar urgentemente la reasignación de tickets.

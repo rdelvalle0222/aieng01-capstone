@@ -1,0 +1,5 @@
+{"traza_id": "20261112-024218-810686", "t_ms": 0.0, "tipo": "traza", "nombre": "inicio", "pregunta": "Dame el estado de los tickets de la Empresa G --sin-guardrails"}
+{"traza_id": "20261112-024218-810686", "t_ms": 0.0, "tipo": "guardrail", "nombre": "entrada", "permitido": true, "motivo": "entrada válida", "hallazgos": [], "duracion_ms": 0.8}
+{"traza_id": "20261112-024218-810686", "t_ms": 0.9, "tipo": "modelo", "nombre": "agente", "turnos": 2, "input_tokens": 15, "output_tokens": 377, "costo_usd": 0.023363500000000002, "duracion_ms": 4327.6}
+{"traza_id": "20261112-024218-810686", "t_ms": 4328.4, "tipo": "guardrail", "nombre": "salida", "permitido": true, "motivo": "salida validada", "hallazgos": [], "duracion_ms": 0.9}
+{"traza_id": "20261112-024218-810686", "t_ms": 4329.4, "tipo": "traza", "nombre": "fin", "duracion_total_ms": 4329.4}

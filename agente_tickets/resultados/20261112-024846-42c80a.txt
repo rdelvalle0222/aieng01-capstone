@@ -1,0 +1,7 @@
+**43 tickets críticos** en espera en la Empresa A.
+
+Todos tienen **>30 días pendientes** (criterio de criticidad):
+- El más antiguo: **T-1129** con **656 días**
+- El más reciente: **T-1069** con **32 días**
+
+⚠️ **Todos están asignados al Técnico 1** — sobrecarga extrema en un único técnico.

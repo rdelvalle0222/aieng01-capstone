@@ -1,0 +1,15 @@
+**🚨 Situación CRÍTICA detectada:**
+
+**Total: 17 tickets** esperando al Proveedor 1
+
+- **12 críticos** (12 dias/84 dias)
+- **1 alta** (20 días)
+- **1 media** (12 días)
+
+**⚠️ MÁS ANTIGUOS:**
+- TK-1135: **397 días** pendientes (Desarrollo, Empresa A)
+- TK-1136: **251 días** pendientes (ERP Facturación, Empresa A)
+- TK-1141: **235 días** pendientes (Desarrollo, Empresa A)
+- TK-1144: **215 días** pendientes (Desarrollo, Empresa A)
+
+Todos asignados a **Técnico 1**. Muchos superan 6 meses. Requiere **escalación inmediata** con Proveedor 1.

@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BPMN: Agente de Tickets - De punta a punta</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background: #f9f9f9;
+        }
+        h1 {
+            text-align: center;
+        }
+        svg {
+            border: 1px solid #ccc;
+            background: white;
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+        }
+        .legend {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 12px;
+        }
+        .legend span {
+            display: inline-block;
+            margin-right: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>BPMN: Agente de Tickets - Proceso de punta a punta</h1>
+
+    <svg viewBox="0 0 1600 1300" xmlns="http://www.w3.org/2000/svg">
+        <!-- Definiciones de estilos -->
+        <defs>
+            <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+                <polygon points="0 0, 10 3, 0 6" fill="#333" />
+            </marker>
+        </defs>
+
+        <!-- CARRILES -->
+        <text x="10" y="30" font-size="12" font-weight="bold">CARRILES:</text>
+
+        <!-- Carril 1: Coordinadora -->
+        <line x1="0" y1="50" x2="200" y2="50" stroke="#999" stroke-width="2"/>
+        <line x1="0" y1="50" x2="0" y2="1280" stroke="#999" stroke-width="2"/>
+        <line x1="200" y1="50" x2="200" y2="1280" stroke="#999" stroke-width="2"/>
+        <text x="5" y="35" font-size="11" font-weight="bold">Coordinadora</text>
+
+        <!-- Carril 2: Guardrails -->
+        <line x1="200" y1="50" x2="380" y2="50" stroke="#999" stroke-width="2"/>
+        <line x1="380" y1="50" x2="380" y2="1280" stroke="#999" stroke-width="2"/>
+        <text x="205" y="35" font-size="11" font-weight="bold">Guardrails (código)</text>
+
+        <!-- Carril 3: Orquestador -->
+        <line x1="380" y1="50" x2="720" y2="50" stroke="#999" stroke-width="2"/>
+        <line x1="720" y1="50" x2="720" y2="1280" stroke="#999" stroke-width="2"/>
+        <text x="385" y="35" font-size="11" font-weight="bold">Orquestador (modelo)</text>
+
+        <!-- Carril 4: Servidor MCP -->
+        <line x1="720" y1="50" x2="950" y2="50" stroke="#999" stroke-width="2"/>
+        <line x1="950" y1="50" x2="950" y2="1280" stroke="#999" stroke-width="2"/>
+        <text x="725" y="35" font-size="11" font-weight="bold">Servidor MCP (código)</text>
+
+        <!-- Carril 5: Verificador -->
+        <line x1="950" y1="50" x2="1150" y2="50" stroke="#999" stroke-width="2"/>
+        <line x1="1150" y1="50" x2="1150" y2="1280" stroke="#999" stroke-width="2"/>
+        <text x="955" y="35" font-size="11" font-weight="bold">Verificador</text>
+
+        <!-- Carril 6: Coordinadora (aprueba) -->
+        <line x1="1150" y1="50" x2="1600" y2="50" stroke="#999" stroke-width="2"/>
+        <line x1="1600" y1="50" x2="1600" y2="1280" stroke="#999" stroke-width="2"/>
+        <text x="1155" y="35" font-size="11" font-weight="bold">Coordinadora (aprueba)</text>
+
+        <!-- ELEMENTOS DEL PROCESO -->
+
+        <!-- 1. Inicio: Coordinadora pregunta -->
+        <circle cx="100" cy="100" r="15" fill="none" stroke="#333" stroke-width="2"/>
+        <text x="120" y="105" font-size="10">Coordinadora pregunta</text>
+        <line x1="115" y1="100" x2="200" y2="100" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+
+        <!-- 2. Guardrail Entrada: Valida pregunta -->
+        <rect x="200" y="80" width="160" height="40" fill="#ffcccc" stroke="#333" stroke-width="1.5" rx="3"/>
+        <text x="210" y="105" font-size="10" font-weight="bold">Guardrail: Valida entrada</text>
+        <line x1="280" y1="100" x2="380" y2="100" stroke="#333" stroke-width="1.5"/>
+        <text x="320" y="95" font-size="9">pregunta válida</text>
+
+        <!-- 2b. Rechazo guardrail entrada → respuesta directa a coordinadora -->
+        <line x1="280" y1="100" x2="280" y2="1100" stroke="#c00" stroke-width="2" stroke-dasharray="5,5"/>
+        <text x="290" y="600" font-size="9" fill="#c00">rechazado</text>
+        <rect x="200" y="1070" width="160" height="40" fill="#ffcccc" stroke="#c00" stroke-width="2" rx="3"/>
+        <text x="215" y="1090" font-size="9" font-weight="bold">Responde:</text>
+        <text x="210" y="1103" font-size="8">"No puedo ejecutar eso"</text>
+        <line x1="280" y1="1070" x2="1400" y2="1070" stroke="#c00" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+        <!-- 3. Orquestador: Recibe pregunta -->
+        <rect x="380" y="80" width="160" height="40" fill="#d4e6f1" stroke="#333" stroke-width="1.5" rx="3"/>
+        <text x="390" y="105" font-size="10" font-weight="bold">Orquestador: recibe</text>
+        <line x1="540" y1="100" x2="600" y2="100" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+
+        <!-- 4. Compuerta: ¿Cuál herramienta? -->
+        <polygon points="600,70 630,100 600,130 570,100" fill="#ffffcc" stroke="#333" stroke-width="1.5"/>
+        <text x="565" y="105" font-size="9">¿Qué</text>
+        <text x="555" y="117" font-size="9">buscar?</text>
+
+        <!-- 5a. Llamada: buscar_tickets -->
+        <line x1="630" y1="100" x2="720" y2="150" stroke="#333" stroke-width="1.5"/>
+        <text x="660" y="125" font-size="9">empresa/id</text>
+        <rect x="720" y="130" width="130" height="40" fill="#ffe6e6" stroke="#333" stroke-width="1.5" rx="3"/>
+        <text x="730" y="160" font-size="9" font-weight="bold">buscar_tickets()</text>
+
+        <!-- 5b. Llamada: calcular_prioridades -->
+        <line x1="600" y1="100" x2="720" y2="220" stroke="#333" stroke-width="1.5"/>
+        <text x="640" y="160" font-size="9">prioridades</text>
+        <rect x="720" y="200" width="130" height="40" fill="#ffe6e6" stroke="#333" stroke-width="1.5" rx="3"/>
+        <text x="725" y="230" font-size="9" font-weight="bold">calcular_prioridades()</text>
+
+        <!-- 5c. Llamada: tickets_por_proveedor -->
+        <line x1="600" y1="100" x2="720" y2="290" stroke="#333" stroke-width="1.5"/>
+        <text x="650" y="190" font-size="9">escalados</text>
+        <rect x="720" y="270" width="130" height="40" fill="#ffe6e6" stroke="#333" stroke-width="1.5" rx="3"/>
+        <text x="730" y="300" font-size="9" font-weight="bold">tickets_por_proveedor()</text>
+
+        <!-- 5d. Llamada: carga_por_tecnico -->
+        <line x1="600" y1="100" x2="720" y2="360" stroke="#333" stroke-width="1.5"/>
+        <text x="650" y="225" font-size="9">carga</text>
+        <rect x="720" y="340" width="130" height="40" fill="#ffe6e6" stroke="#333" stroke-width="1.5" rx="3"/>
+        <text x="735" y="370" font-size="9" font-weight="bold">carga_por_tecnico()</text>
+
+        <!-- 6. Falla de herramienta (ejemplo) -->
+        <line x1="850" y1="150" x2="900" y2="150" stroke="#c00" stroke-width="2" stroke-dasharray="5,5"/>
+        <circle cx="920" cy="150" r="10" fill="none" stroke="#c00" stroke-width="2"/>
+        <text x="930" y="155" font-size="9" fill="#c00">❌ No encontrado</text>
+
+        <!-- Reintento después de falla -->
+        <line x1="920" y1="160" x2="550" y2="420" stroke="#c00" stroke-width="1.5" stroke-dasharray="3,3"/>
+        <text x="650" y="280" font-size="9" fill="#c00">reintenta</text>
+
+        <!-- 7. Respuestas exitosas de herramientas -->
+        <line x1="850" y1="230" x2="900" y2="230" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+        <line x1="850" y1="300" x2="900" y2="280" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+        <line x1="850" y1="370" x2="900" y2="330" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+
+        <!-- 8. Agrega datos a borrador -->
+        <rect x="380" y="250" width="160" height="40" fill="#d4e6f1" stroke="#333" stroke-width="1.5" rx="3"/>
+        <text x="390" y="275" font-size="10" font-weight="bold">Genera borrador</text>
+        <line x1="540" y1="270" x2="600" y2="270" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+
+        <!-- 9. Compuerta: ¿Contador de vueltas? (herramientas + redacción + verificador) -->
+        <polygon points="600,240 630,270 600,300 570,270" fill="#ffffcc" stroke="#333" stroke-width="1.5"/>
+        <text x="560" y="275" font-size="8">¿Vueltas</text>
+        <text x="570" y="283" font-size="8">&lt;6?</text>
+
+        <!-- 9a. Si >= 6 vueltas: freno -->
+        <line x1="600" y1="300" x2="600" y2="380" stroke="#333" stroke-width="1.5"/>
+        <text x="610" y="340" font-size="9" fill="#c00">NO (&gt;=6)</text>
+        <rect x="480" y="380" width="240" height="50" fill="#ffcccc" stroke="#c00" stroke-width="2" rx="3"/>
+        <text x="490" y="405" font-size="9" font-weight="bold">⏹ Freno: datos parciales</text>
+        <text x="490" y="420" font-size="8">"No completé análisis en tiempo límite"</text>
+        <line x1="600" y1="430" x2="600" y2="1200" stroke="#c00" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+        <!-- 9b. Si < 6: continúa -->
+        <line x1="630" y1="270" x2="720" y2="270" stroke="#333" stroke-width="1.5"/>
+        <text x="660" y="265" font-size="9">SÍ</text>
+
+        <!-- 10. Delegación al Verificador -->
+        <rect x="950" y="250" width="120" height="40" fill="#e6f2ff" stroke="#333" stroke-width="1.5" rx="3"/>
+        <text x="960" y="275" font-size="10" font-weight="bold">Verificador:</text>
+        <text x="965" y="285" font-size="9">valida datos</text>
+        <line x1="1070" y1="270" x2="1100" y2="270" stroke="#333" stroke-width="1.5"/>
+
+        <!-- 11. Compuerta: Verificador OK? -->
+        <polygon points="1100,240 1130,270 1100,300 1070,270" fill="#ffffcc" stroke="#333" stroke-width="1.5"/>
+        <text x="1065" y="275" font-size="8">¿Datos</text>
+        <text x="1070" y="283" font-size="8">OK?</text>
+
+        <!-- 11a. Rechazo verificador → reintenta (cuenta como vuelta) -->
+        <line x1="1100" y1="300" x2="1100" y2="340" stroke="#333" stroke-width="1.5"/>
+        <text x="1110" y="325" font-size="9" fill="#c00">NO</text>
+        <line x1="1100" y1="340" x2="550" y2="420" stroke="#c00" stroke-width="1.5" stroke-dasharray="3,3"/>
+        <text x="800" y="375" font-size="8" fill="#c00">reintenta (+vuelta)</text>
+
+        <!-- 11b. Aprobación verificador -->
+        <line x1="1130" y1="270" x2="1200" y2="270" stroke="#333" stroke-width="1.5"/>
+        <text x="1150" y="265" font-size="9">SÍ</text>
+
+        <!-- 12. Guardrail Salida: Valida formato/anonimización -->
+        <rect x="200" y="250" width="160" height="40" fill="#ffcccc" stroke="#333" stroke-width="1.5" rx="3"/>
+        <text x="210" y="270" font-size="9" font-weight="bold">Guardrail: valida</text>
+        <text x="215" y="282" font-size="9">salida (IDs, anon.)</text>
+        <line x1="280" y1="270" x2="380" y2="270" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+
+        <!-- 12b. Rechazo guardrail salida → reintenta (redacción, cuenta como vuelta) -->
+        <line x1="200" y1="270" x2="100" y2="270" stroke="#c00" stroke-width="1.5" stroke-dasharray="3,3"/>
+        <line x1="100" y1="270" x2="100" y2="500" stroke="#c00" stroke-width="1.5" stroke-dasharray="3,3"/>
+        <line x1="100" y1="500" x2="380" y2="500" stroke="#c00" stroke-width="1.5" stroke-dasharray="3,3"/>
+        <text x="110" y="380" font-size="8" fill="#c00">formato/anon. error</text>
+        <text x="120" y="515" font-size="8" fill="#c00">reintenta redacción</text>
+
+        <!-- Conectar guardrail salida con verificador -->
+        <line x1="1200" y1="270" x2="280" y2="270" stroke="#333" stroke-width="1.5"/>
+
+        <!-- 13. Respuesta final a Coordinadora (aprueba) -->
+        <rect x="1200" y="250" width="150" height="40" fill="#e6ffe6" stroke="#333" stroke-width="1.5" rx="3"/>
+        <text x="1210" y="275" font-size="10" font-weight="bold">Coordinadora:</text>
+        <text x="1225" y="285" font-size="9">aprueba/rechaza</text>
+        <line x1="1350" y1="270" x2="1400" y2="270" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+
+        <!-- 14. Fin exitoso -->
+        <circle cx="1420" cy="270" r="15" fill="none" stroke="#333" stroke-width="3"/>
+        <circle cx="1420" cy="270" r="10" fill="none" stroke="#333" stroke-width="1.5"/>
+        <text x="1440" y="275" font-size="10" font-weight="bold">Fin ✓</text>
+
+        <!-- Leyenda de colores -->
+        <text x="50" y="550" font-size="12" font-weight="bold">LEYENDA:</text>
+        <rect x="50" y="560" width="20" height="20" fill="#d4e6f1" stroke="#333" stroke-width="1"/>
+        <text x="80" y="575" font-size="11">Tarea de MODELO (Orquestador decide, redacta)</text>
+
+        <rect x="50" y="590" width="20" height="20" fill="#ffe6e6" stroke="#333" stroke-width="1"/>
+        <text x="80" y="605" font-size="11">Tarea de CÓDIGO (Guardrails, herramientas, verificador)</text>
+
+        <rect x="50" y="620" width="20" height="20" fill="#e6ffe6" stroke="#333" stroke-width="1"/>
+        <text x="80" y="635" font-size="11">PERSONA (Coordinadora aprueba)</text>
+
+        <polygon points="65,660 75,650 75,670" fill="#ffffcc" stroke="#333" stroke-width="1"/>
+        <text x="80" y="663" font-size="11">Compuerta (decisión, ramificación)</text>
+
+        <circle cx="65" cy="690" r="8" fill="none" stroke="#333" stroke-width="1.5"/>
+        <text x="80" y="695" font-size="11">Evento (inicio/fin/excepción)</text>
+    </svg>
+
+    <div class="legend">
+        <strong>Notas del proceso (v2):</strong><br>
+        • Guardrail entrada bloquea imperativo+acción (ej: "cierra TK-001") → responde "No puedo" y termina<br>
+        • Vueltas = llamadas a herramientas + reintento por guardrail salida + reintento por verificador; máximo 6<br>
+        • Al tocar 6 vueltas: freno, responde con datos parciales + "No completé validación en tiempo límite"<br>
+        • Verificador valida IDs (existen), antigüedades (exactas: hoy - fecha_apertura), sumas por técnico; rechaza → reintenta (+vuelta)<br>
+        • Guardrail salida (post-verificador): valida que todos los IDs vienen de herramientas MCP y anonimización completa<br>
+        • Si guardrail salida rechaza: reintenta redacción desde orquestador (+vuelta)<br>
+        • Coordinadora aprueba/rechaza pero agente nunca cierra, reasigna ni modifica
+    </div>
+</body>
+</html>

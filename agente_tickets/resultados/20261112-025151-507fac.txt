@@ -1,0 +1,7 @@
+📊 **Resumen de tickets abiertos:**
+
+- **Total:** 153 tickets
+- **En espera:** 82 tickets
+- **En curso (asignados):** 71 tickets
+
+⚠️ **Nota importante:** Hay una concentración muy alta de tickets en espera (54% del total). Se recomienda revisar la carga de trabajo y los tickets críticos.

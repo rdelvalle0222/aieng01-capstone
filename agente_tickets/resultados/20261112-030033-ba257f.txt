@@ -1,0 +1,14 @@
+**Distribución de carga (tickets en espera):**
+
+- **Técnico 1**: 82 tickets ⚠️ sobrecargado
+- **Técnico 2**: 2 tickets
+- **Técnico 3**: 1 ticket
+- **Técnico 4**: 1 ticket
+
+**Por grupo técnico:**
+- **Sin grupo asignado**: 82 tickets
+
+**⚠️ Problemas detectados:**
+1. **Carga muy desbalanceada**: Técnico 1 tiene el 98% de los tickets en espera
+2. **Falta asignación por grupos**: Todos los 82 tickets están sin grupo técnico asignado
+3. **Riesgo**: Técnico 1 es un cuello de botella crítico

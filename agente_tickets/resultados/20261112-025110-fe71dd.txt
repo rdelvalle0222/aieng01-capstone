@@ -1,0 +1,11 @@
+**5 tickets escalados al Proveedor 2 — TODOS CRÍTICOS:**
+
+| ID | Empresa | Días | Estado | Técnico |
+|---|---|---|---|---|
+| **T-1135** | Empresa A | 397 | En espera | Técnico 1 |
+| **T-1110** | Empresa A | 89 | En espera | Técnico 1 |
+| **T-1102** | Empresa D | 76 | En espera | Técnico 1 |
+| **T-1090** | Empresa E | 55 | En espera | Técnico 1 |
+| **T-1065** | Empresa D | 41 | En espera | Técnico 1 |
+
+⚠️ **ALERTA:** T-1135 lleva **397 días** pendientes. Requiere seguimiento inmediato con Proveedor 2.

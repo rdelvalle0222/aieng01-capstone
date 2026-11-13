@@ -1,0 +1,11 @@
+**Carga de trabajo EN ESPERA:**
+
+- **Técnico 1**: 82 tickets (99.3%) 🔴
+- **Técnico 2**: 2 tickets
+- **Técnico 3**: 1 ticket
+- **Técnico 4**: 1 ticket
+
+**Por grupo técnico:**
+- **Sin grupo asignado**: 82 tickets
+
+**⚠️ Crítico:** La carga está totalmente desbalanceada. El Técnico 1 tiene casi toda la carga, y 82 tickets están sin grupo. Requiere reasignación urgente.

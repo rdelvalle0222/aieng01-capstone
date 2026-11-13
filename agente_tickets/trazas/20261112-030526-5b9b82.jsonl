@@ -1,0 +1,5 @@
+{"traza_id": "20261112-030526-5b9b82", "t_ms": 0.0, "tipo": "traza", "nombre": "inicio", "pregunta": "¿Cuántos tickets críticos en espera tiene la Empresa A? --sin-guardrails"}
+{"traza_id": "20261112-030526-5b9b82", "t_ms": 0.0, "tipo": "guardrail", "nombre": "entrada", "permitido": true, "motivo": "entrada válida", "hallazgos": [], "duracion_ms": 0.7}
+{"traza_id": "20261112-030526-5b9b82", "t_ms": 0.7, "tipo": "modelo", "nombre": "agente", "turnos": 2, "input_tokens": 15, "output_tokens": 418, "costo_usd": 0.052654000000000006, "duracion_ms": 4772.3}
+{"traza_id": "20261112-030526-5b9b82", "t_ms": 4773.1, "tipo": "guardrail", "nombre": "salida", "permitido": false, "motivo": "nombres no anonimizados: ['Desarrollo\\n\\nTodos']", "hallazgos": ["nombres no anonimizados: ['Desarrollo\\n\\nTodos']"], "duracion_ms": 0.9}
+{"traza_id": "20261112-030526-5b9b82", "t_ms": 4774.0, "tipo": "traza", "nombre": "fin", "duracion_total_ms": 4774.0}

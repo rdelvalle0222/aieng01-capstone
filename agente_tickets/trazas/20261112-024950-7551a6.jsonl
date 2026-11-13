@@ -1,0 +1,5 @@
+{"traza_id": "20261112-024950-7551a6", "t_ms": 0.0, "tipo": "traza", "nombre": "inicio", "pregunta": "¿Cuántos tickets abiertos hay y cuántos están en espera?"}
+{"traza_id": "20261112-024950-7551a6", "t_ms": 0.0, "tipo": "guardrail", "nombre": "entrada", "permitido": true, "motivo": "entrada válida", "hallazgos": [], "duracion_ms": 0.6}
+{"traza_id": "20261112-024950-7551a6", "t_ms": 0.6, "tipo": "modelo", "nombre": "agente", "turnos": 2, "input_tokens": 15, "output_tokens": 296, "costo_usd": 0.10986199999999999, "duracion_ms": 4574.2}
+{"traza_id": "20261112-024950-7551a6", "t_ms": 4574.9, "tipo": "guardrail", "nombre": "salida", "permitido": true, "motivo": "salida validada", "hallazgos": [], "duracion_ms": 1.1}
+{"traza_id": "20261112-024950-7551a6", "t_ms": 4575.9, "tipo": "traza", "nombre": "fin", "duracion_total_ms": 4575.9}

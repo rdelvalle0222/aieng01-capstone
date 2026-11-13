@@ -1,0 +1,10 @@
+**TK-1129** es el ticket en espera más antiguo.
+
+📋 **Detalles:**
+- **Empresa:** Empresa A
+- **Título:** Solicitud de soporte - APEX/Querys
+- **Días pendientes:** 656 días
+- **Prioridad:** ⚠️ **CRÍTICA**
+- **Técnico asignado:** Técnico 1
+
+Este ticket lleva más de 21 meses sin resolver. Requiere atención inmediata.

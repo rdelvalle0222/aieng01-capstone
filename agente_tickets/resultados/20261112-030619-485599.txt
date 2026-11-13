@@ -1,0 +1,15 @@
+**Estado de Empresa G:**
+
+📊 **Resumen:**
+- **Total:** 1 ticket
+- **En espera:** 1
+- **En curso:** 0
+
+🔴 **Ticket crítico detectado:**
+- **T-1152** | Solicitud de soporte - Desarrollo
+  - **Estado:** En espera
+  - **Días pendientes:** 384 días ⚠️
+  - **Prioridad:** CRÍTICA
+  - **Asignado a:** Técnico 1
+
+**⚡ Acción recomendada:** Este ticket lleva más de un año pendiente. Necesita revisión inmediata.

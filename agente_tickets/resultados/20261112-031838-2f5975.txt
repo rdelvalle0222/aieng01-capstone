@@ -1,0 +1,21 @@
+**17 tickets en espera con Proveedor 1:**
+
+- T-1014 (Empresa A, 12 días, Media)
+- T-1045 (Empresa A, 20 días, Alta)
+- **T-1080** (Empresa A, 47 días, **Crítica**)
+- **T-1099** (Empresa B, 84 días, **Crítica**)
+- **T-1102** (Empresa D, 76 días, **Crítica**)
+- **T-1105** (Empresa A, 194 días, **Crítica**)
+- **T-1108** (Empresa A, 88 días, **Crítica**)
+- **T-1113** (Empresa A, 190 días, **Crítica**)
+- **T-1116** (Empresa D, 145 días, **Crítica**)
+- **T-1127** (Empresa B, 188 días, **Crítica**)
+- **T-1132** (Empresa A, 152 días, **Crítica**)
+- **T-1133** (Empresa B, 145 días, **Crítica**)
+- **T-1135** (Empresa A, 397 días, **Crítica**)
+- **T-1136** (Empresa A, 251 días, **Crítica**)
+- **T-1141** (Empresa A, 235 días, **Crítica**)
+- **T-1143** (Empresa B, 169 días, **Crítica**)
+- **T-1144** (Empresa A, 215 días, **Crítica**)
+
+**15 son Críticos** (antigüedad 47–397 días).

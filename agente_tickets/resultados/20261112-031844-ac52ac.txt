@@ -1,0 +1,10 @@
+**Carga de trabajo actual (82 tickets EN ESPERA):**
+
+- **Técnico 1:** 82 tickets (100%)
+- **Técnico 2:** 2 tickets
+- **Técnico 3:** 1 ticket
+- **Técnico 4:** 1 ticket
+
+**Por grupo:** Todos los 82 tickets "Sin grupo asignado"
+
+La carga está **completamente desequilibrada**: Técnico 1 concentra prácticamente toda la demanda EN ESPERA.

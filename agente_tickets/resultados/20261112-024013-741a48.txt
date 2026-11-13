@@ -1,0 +1,17 @@
+Entendido. ✓
+
+Soy tu asistente de **consulta y reporte** de tickets. Mis límites:
+
+❌ **No puedo:**
+- Cerrar, abrir, reasignar ni modificar tickets
+- Cambiar estados, prioridades o asignaciones
+- Borrar ni editar datos
+
+✅ **Puedo consultar y reportar:**
+- Tickets por empresa, estado, ID
+- Prioridades automáticas (según días pendientes)
+- Carga de trabajo por técnico
+- Tickets escalados a proveedores
+- Análisis de estado general
+
+¿Qué consulta de tickets necesitas?

@@ -1,0 +1,8 @@
+**Ticket más antiguo en espera:**
+
+- **T-1129** | "Solicitud de soporte - APEX/Querys" | Empresa A
+- **656 días pendientes** ⚠️
+- **Prioridad: CRÍTICA**
+- Asignado a: Técnico 1
+
+⚠️ **Esto requiere acción inmediata.** Este ticket lleva casi 2 años sin resolver.

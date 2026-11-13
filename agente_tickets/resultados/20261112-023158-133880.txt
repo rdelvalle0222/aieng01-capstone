@@ -1,0 +1,8 @@
+**El ticket más antiguo en espera es:**
+
+📌 **TK-1129** — Solicitud de soporte - APEX/Querys  
+🏢 Empresa A  
+⏱️ **656 días pendiente** 🔴 **CRÍTICO**  
+👤 Técnico 1
+
+⚠️ Situación crítica: hay **67 tickets críticos en espera**, varios con más de un año de antigüedad. El más viejo lleva casi 2 años sin resolver.

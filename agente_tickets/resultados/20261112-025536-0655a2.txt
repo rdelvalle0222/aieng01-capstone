@@ -1,0 +1,10 @@
+**⚠️ 43 tickets críticos en Empresa A**
+
+Todos asignados al **Técnico 1**, pendientes **>30 días** (desde T-1129 con 656 días hasta T-1069 con 32 días).
+
+**Resumen:**
+- 🔴 Crítica: **43 tickets**
+- 🟠 Alta: **8 tickets**
+- 🟡 Media: **2 tickets**
+
+El más antiguo: **T-1129** (656 días). Recomendación urgente: revisar asignación y capacidad del Técnico 1.

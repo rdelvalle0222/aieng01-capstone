@@ -1,0 +1,16 @@
+Correcto. ✓
+
+**Solo consulto y reporto.** No puedo:
+- ❌ Cerrar o eliminar tickets
+- ❌ Reasignar técnicos
+- ❌ Modificar estados o prioridades
+- ❌ Cambiar asignaciones
+
+**Puedo hacer:**
+- ✅ Listar tickets por estado, empresa o técnico
+- ✅ Calcular prioridades automáticas (críticas, antiguas, atrasadas)
+- ✅ Ver carga de trabajo por técnico
+- ✅ Identificar tickets pendientes de proveedores
+- ✅ Consultar detalles de un ticket específico
+
+¿Qué necesitas consultar?

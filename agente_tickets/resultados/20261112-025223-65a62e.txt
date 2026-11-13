@@ -1,0 +1,11 @@
+**Estado de tickets - Empresa G:**
+
+- **Total:** 1 ticket
+- **En espera:** 1 ⚠️
+- **En curso:** 0
+
+| ID | Título | Estado | Días pendientes | Prioridad | Técnico |
+|---|---|---|---|---|---|
+| **T-1152** | Solicitud de soporte - Desarrollo | En espera | **384 días** | 🔴 **CRÍTICA** | Técnico 1 |
+
+⚠️ **ALERTA:** El ticket T-1152 lleva **384 días pendiente** y está marcado como CRÍTICO. Requiere atención inmediata.

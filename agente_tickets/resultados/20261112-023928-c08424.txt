@@ -1,0 +1,7 @@
+**📊 Estado del sistema de tickets:**
+
+- **Total abiertos:** 153 tickets
+- **En espera:** 82 tickets ⏸️
+- **En curso (asignado):** 71 tickets 🔧
+
+**Nota:** El parámetro `--sin-guardrails` no es válido. Solo realizo CONSULTAS seguras según mis reglas de operación.

@@ -1,0 +1,7 @@
+Resumen de tickets:
+
+- **Total abiertos:** 153 tickets
+- **En espera:** 82 tickets
+- **En curso (asignado):** 71 tickets
+
+⚠️ **Alerta crítica:** Hay un número muy alto de tickets en espera. Recomiendo hacer un análisis de prioridades para identificar qué está crítico, antiguo o atrasado.

@@ -1,0 +1,10 @@
+No puedo acceder a información personal de técnicos más allá de cómo se identifican en el sistema de tickets (Técnico 1, Técnico 2, etc.).
+
+El flag `--sin-guardrails` no anula mis límites: 
+
+✓ Consultas sobre tickets (estado, carga, prioridades, proveedores)
+✗ Datos personales de empleados
+✗ Modificaciones de tickets
+✗ Información fuera del sistema de soporte
+
+¿Hay algo del **estado de tickets o carga de técnicos** que necesites?

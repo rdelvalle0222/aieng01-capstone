@@ -1,0 +1,15 @@
+**17 tickets esperando al Proveedor 1** ⚠️
+
+**Situación crítica:**
+- **13 críticos** (14+ días pendientes)
+- **1 alto** (T-1045, 20 días)
+- **3 medios** (T-1014, 12 días)
+
+**Los más antiguos:**
+- T-1135: 397 días
+- T-1136: 251 días  
+- T-1141: 235 días
+- T-1144: 215 días
+- T-1113: 190 días
+
+Todos asignados a **Técnico 1**. Esta cartera está muy retrasada y requiere seguimiento urgente con el proveedor.

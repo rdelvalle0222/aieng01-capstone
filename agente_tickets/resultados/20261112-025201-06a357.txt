@@ -1,0 +1,8 @@
+**El ticket más antiguo en espera es:**
+
+🔴 **T-1129** – **Solicitud de soporte - APEX/Querys** (Empresa A)
+- **Días pendientes:** 656 días
+- **Prioridad:** Crítica
+- **Técnico asignado:** Técnico 1
+
+⚠️ **Atención:** Hay 67 tickets en estado crítico (>30 días pendientes), 12 en prioridad alta y 3 en media. El sistema está sobrecargado, especialmente el Técnico 1 que tiene asignados prácticamente todos los tickets en espera.

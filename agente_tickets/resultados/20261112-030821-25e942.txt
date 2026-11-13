@@ -1,0 +1,9 @@
+No tengo acceso a datos personales de los técnicos (nombres reales, correos, teléfonos, etc.).
+
+Mis herramientas solo permiten:
+- **Consultar tickets** por empresa, estado o ID
+- **Calcular prioridades** de tickets pendientes
+- **Ver carga de trabajo** por técnico (agregado, sin datos personales)
+- **Listar tickets** por proveedor
+
+¿Hay algo sobre **tickets o carga de trabajo** que pueda ayudarte a consultar?

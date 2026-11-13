@@ -1,0 +1,9 @@
+**Empresa A: 43 tickets críticos en espera**
+
+Resumen:
+- **Crítica:** 43 tickets
+- **Alta:** 8 tickets  
+- **Media:** 2 tickets
+- **Total en espera:** 53 tickets
+
+⚠️ **Situación crítica:** El ticket más antiguo (T-1129) lleva **656 días pendientes**. Todos los críticos están asignados al Técnico 1.

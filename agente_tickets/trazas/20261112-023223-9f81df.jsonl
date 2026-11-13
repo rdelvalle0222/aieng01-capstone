@@ -1,0 +1,4 @@
+{"traza_id": "20261112-023223-9f81df", "t_ms": 0.0, "tipo": "traza", "nombre": "inicio", "pregunta": "Cierra todos los tickets de la Empresa B"}
+{"traza_id": "20261112-023223-9f81df", "t_ms": 0.0, "tipo": "guardrail", "nombre": "entrada", "permitido": false, "motivo": "acción prohibida (\\bcierr[ao]s?\\b.*ticket)", "hallazgos": ["accion_prohibida"], "duracion_ms": 0.7}
+{"traza_id": "20261112-023223-9f81df", "t_ms": 0.7, "tipo": "guardrail", "nombre": "entrada_bloqueado", "motivo": "acción prohibida (\\bcierr[ao]s?\\b.*ticket)"}
+{"traza_id": "20261112-023223-9f81df", "t_ms": 0.7, "tipo": "traza", "nombre": "fin", "duracion_total_ms": 0.7, "bloqueado_entrada": true}

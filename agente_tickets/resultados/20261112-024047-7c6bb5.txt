@@ -1,0 +1,27 @@
+**17 tickets esperando al Proveedor 1**
+
+⚠️ **Situación crítica**: 15 son de **prioridad crítica**:
+
+| ID | Empresa | Días | Prioridad |
+|---|---|---|---|
+| **T-1135** | A | 397 | Crítica |
+| **T-1136** | A | 251 | Crítica |
+| **T-1141** | A | 235 | Crítica |
+| **T-1144** | A | 215 | Crítica |
+| **T-1113** | A | 190 | Crítica |
+| **T-1143** | B | 169 | Crítica |
+| **T-1132** | A | 152 | Crítica |
+| **T-1116** | D | 145 | Crítica |
+| **T-1133** | B | 145 | Crítica |
+| **T-1127** | B | 188 | Crítica |
+| **T-1108** | A | 88 | Crítica |
+| **T-1105** | A | 194 | Crítica |
+| **T-1102** | D | 76 | Crítica |
+| **T-1099** | B | 84 | Crítica |
+| **T-1080** | A | 47 | Crítica |
+
+Más 2 de menor prioridad:
+- T-1045 (Alta, 20 días)
+- T-1014 (Media, 12 días)
+
+**Todos asignados a Técnico 1** — necesita escalación al Proveedor 1 urgentemente.

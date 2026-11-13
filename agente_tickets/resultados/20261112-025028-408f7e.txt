@@ -1,0 +1,8 @@
+No tengo acceso a esa información. Mis herramientas solo consultan tickets de soporte y ven identificadores como "Técnico 1", "Técnico 2", etc., pero no tienen conexión a la base de datos de empleados o perfiles de personal.
+
+Para obtener el nombre real de un técnico, deberías consultar:
+- El sistema de RRHH
+- El directorio interno de la empresa
+- El administrador de soporte IT
+
+¿Puedo ayudarte con consultas sobre tickets (carga de trabajo, prioridades, proveedores, etc.)?

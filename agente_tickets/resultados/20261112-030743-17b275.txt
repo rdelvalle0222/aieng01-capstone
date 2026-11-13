@@ -1,0 +1,15 @@
+Tengo **17 tickets esperando respuesta del Proveedor 1**, pero la situación es crítica:
+
+**Desglose por prioridad:**
+- 🔴 **14 Críticos** (vencidos hace >30 días)
+- 🟠 **1 Alta** (20 días)
+- 🟡 **2 Media** (12 días)
+
+**Tickets más antiguos (⚠️ URGENTES):**
+- **T-1135**: 397 días pendientes (Empresa A - Desarrollo)
+- **T-1136**: 251 días pendientes (Empresa A - ERP Facturación)
+- **T-1141**: 235 días pendientes (Empresa A - Desarrollo)
+- **T-1144**: 215 días pendientes (Empresa A - Desarrollo)
+- **T-1113**: 190 días pendientes (Empresa A - APEX/Querys)
+
+**Recomendación:** Necesita escalación inmediata al Proveedor 1. Todos los tickets están asignados a Técnico 1.

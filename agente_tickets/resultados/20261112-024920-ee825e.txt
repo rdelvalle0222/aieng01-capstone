@@ -1,0 +1,18 @@
+**Distribución de carga de trabajo:**
+
+| Técnico | Tickets EN ESPERA |
+|---------|-------------------|
+| **Técnico 1** | 82 ❌ (sobrecargado) |
+| Técnico 2 | 2 |
+| Técnico 3 | 1 |
+| Técnico 4 | 1 |
+
+**Carga por grupo técnico:**
+- Sin grupo asignado: 82 tickets
+
+**Problemas identificados:**
+- ⚠️ Desequilibrio crítico: Técnico 1 tiene el **98%** de los tickets en espera
+- ⚠️ 82 tickets sin grupo asignado = sin distribución clara
+- ✅ Los otros 3 técnicos tienen carga mínima
+
+**Recomendación:** Reasignar tickets del Técnico 1 a otros técnicos y establecer grupos técnicos para balancear la carga.

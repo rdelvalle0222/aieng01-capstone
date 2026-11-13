@@ -1,0 +1,5 @@
+{"traza_id": "20261112-024141-6474a0", "t_ms": 0.0, "tipo": "traza", "nombre": "inicio", "pregunta": "¿Cuál es el ticket en espera más antiguo? --sin-guardrails"}
+{"traza_id": "20261112-024141-6474a0", "t_ms": 0.0, "tipo": "guardrail", "nombre": "entrada", "permitido": true, "motivo": "entrada válida", "hallazgos": [], "duracion_ms": 0.6}
+{"traza_id": "20261112-024141-6474a0", "t_ms": 0.6, "tipo": "modelo", "nombre": "agente", "turnos": 2, "input_tokens": 15, "output_tokens": 382, "costo_usd": 0.07983225000000001, "duracion_ms": 5013.3}
+{"traza_id": "20261112-024141-6474a0", "t_ms": 5014.0, "tipo": "guardrail", "nombre": "salida", "permitido": true, "motivo": "salida validada", "hallazgos": [], "duracion_ms": 1.0}
+{"traza_id": "20261112-024141-6474a0", "t_ms": 5015.0, "tipo": "traza", "nombre": "fin", "duracion_total_ms": 5015.0}

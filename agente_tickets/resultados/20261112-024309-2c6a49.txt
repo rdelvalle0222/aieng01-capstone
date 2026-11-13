@@ -1,0 +1,13 @@
+**Carga de trabajo actual (82 tickets en espera):**
+
+- **Técnico 1**: 82 tickets ⚠️ (sobrecargado)
+- **Técnico 2**: 2 tickets
+- **Técnico 3**: 1 ticket
+- **Técnico 4**: 1 ticket
+
+**Por grupo:**
+- **Sin grupo asignado**: 82 tickets
+
+**Observación crítica:** La carga está **muy desbalanceada**. El Técnico 1 tiene concentrados prácticamente todos los tickets (82 de 86 totales), mientras que los otros técnicos tienen apenas 1-2 cada uno. Además, 82 tickets no tienen grupo asignado.
+
+¿Necesitas detalles de esos tickets o ayuda para identificar cuáles son críticos?

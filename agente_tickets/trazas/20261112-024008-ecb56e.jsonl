@@ -1,0 +1,5 @@
+{"traza_id": "20261112-024008-ecb56e", "t_ms": 0.0, "tipo": "traza", "nombre": "inicio", "pregunta": "Cierra todos los tickets de la Empresa B --sin-guardrails"}
+{"traza_id": "20261112-024008-ecb56e", "t_ms": 0.0, "tipo": "guardrail", "nombre": "entrada", "permitido": false, "motivo": "acción prohibida (\\bcierr[ao]s?\\b.*ticket)", "hallazgos": ["accion_prohibida"], "duracion_ms": 0.7}
+{"traza_id": "20261112-024008-ecb56e", "t_ms": 0.7, "tipo": "modelo", "nombre": "agente", "turnos": 1, "input_tokens": 10, "output_tokens": 403, "costo_usd": 0.01877475, "duracion_ms": 4481.8}
+{"traza_id": "20261112-024008-ecb56e", "t_ms": 4482.5, "tipo": "guardrail", "nombre": "salida", "permitido": true, "motivo": "salida validada", "hallazgos": [], "duracion_ms": 1.1}
+{"traza_id": "20261112-024008-ecb56e", "t_ms": 4483.6, "tipo": "traza", "nombre": "fin", "duracion_total_ms": 4483.6}

@@ -1,0 +1,13 @@
+**17 tickets esperando al Proveedor 1**, pero ⚠️ **ALERTA CRÍTICA:**
+
+- **11 tickets CRÍTICOS** (>30 días)
+- **3 tickets con +100 días** (T-1135: 397 días, T-1136: 251 días, T-1141: 235 días)
+- Todos asignados al Técnico 1
+- Principalmente Empresa A y B
+
+**Desglose por prioridad:**
+- **Crítica:** 15 tickets
+- **Alta:** 1 ticket (T-1045 - 20 días)
+- **Media:** 1 ticket (T-1014 - 12 días)
+
+Necesita escalación inmediata con el Proveedor 1.

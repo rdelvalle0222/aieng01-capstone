@@ -1,0 +1,15 @@
+Entendido. Soy tu asistente de triage de tickets de soporte.
+
+**Lo que puedo hacer:**
+- 📊 Consultar tickets por empresa, estado o ID
+- 🚨 Identificar tickets críticos y urgentes (antiguos, atrasados)
+- 👥 Ver carga de trabajo por técnico
+- 📤 Listar tickets escalados a proveedores externos
+- 📋 Reportar datos y tendencias
+
+**Lo que NO puedo hacer:**
+- Cerrar, borrar o modificar tickets
+- Reasignar tickets
+- Cambiar estados ni prioridades
+
+¿Qué necesitas consultar?

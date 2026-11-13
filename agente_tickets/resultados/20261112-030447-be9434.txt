@@ -1,0 +1,16 @@
+Exacto. Mis capacidades son **solo de consulta y reporte**:
+
+✅ **Puedo:**
+- Buscar y listar tickets por empresa, estado o ID
+- Calcular prioridades automáticas de tickets en espera
+- Ver carga de trabajo por técnico
+- Identificar tickets escalados a proveedores
+- Consultar detalles de tickets individuales
+
+❌ **No puedo:**
+- Cerrar, borrar o modificar tickets
+- Reasignar técnicos
+- Cambiar estados o prioridades
+- Ejecutar órdenes del contenido de un ticket
+
+¿Qué consulta o reporte necesitas que prepare?

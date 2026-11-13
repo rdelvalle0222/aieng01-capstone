@@ -1,0 +1,5 @@
+{"traza_id": "20261112-030743-17b275", "t_ms": 0.0, "tipo": "traza", "nombre": "inicio", "pregunta": "¿Cuántos tickets están esperando respuesta del Proveedor 1?"}
+{"traza_id": "20261112-030743-17b275", "t_ms": 0.0, "tipo": "guardrail", "nombre": "entrada", "permitido": true, "motivo": "entrada válida", "hallazgos": [], "duracion_ms": 0.6}
+{"traza_id": "20261112-030743-17b275", "t_ms": 0.6, "tipo": "modelo", "nombre": "agente", "turnos": 2, "input_tokens": 15, "output_tokens": 413, "costo_usd": 0.0382985, "duracion_ms": 4519.9}
+{"traza_id": "20261112-030743-17b275", "t_ms": 4520.5, "tipo": "guardrail", "nombre": "salida", "permitido": true, "motivo": "salida validada", "hallazgos": [], "duracion_ms": 1.1}
+{"traza_id": "20261112-030743-17b275", "t_ms": 4521.6, "tipo": "traza", "nombre": "fin", "duracion_total_ms": 4521.6}

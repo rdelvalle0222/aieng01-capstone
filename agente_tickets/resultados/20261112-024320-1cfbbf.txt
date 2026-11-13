@@ -1,0 +1,9 @@
+No tengo acceso a información personal de técnicos ni a bases de datos de recursos humanos. 
+
+Mis herramientas están limitadas a consultas sobre **tickets de soporte**: criticidad, estado, proveedores y carga de trabajo por técnico.
+
+Si necesitas identificar al técnico responsable de un ticket específico, puedo:
+- Decirte qué tickets tiene asignados cada técnico
+- Mostrar cómo está repartida la carga
+
+¿Hay algo de eso que necesites?

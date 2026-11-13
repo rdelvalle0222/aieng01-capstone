@@ -1,0 +1,5 @@
+{"traza_id": "20261112-025605-255062", "t_ms": 0.0, "tipo": "traza", "nombre": "inicio", "pregunta": "¿Qué tickets están escalados al Proveedor 2? --sin-guardrails"}
+{"traza_id": "20261112-025605-255062", "t_ms": 0.0, "tipo": "guardrail", "nombre": "entrada", "permitido": true, "motivo": "entrada válida", "hallazgos": [], "duracion_ms": 0.6}
+{"traza_id": "20261112-025605-255062", "t_ms": 0.7, "tipo": "modelo", "nombre": "agente", "turnos": 2, "input_tokens": 15, "output_tokens": 477, "costo_usd": 0.033929749999999995, "duracion_ms": 4236.4}
+{"traza_id": "20261112-025605-255062", "t_ms": 4237.1, "tipo": "guardrail", "nombre": "salida", "permitido": true, "motivo": "salida validada", "hallazgos": [], "duracion_ms": 0.9}
+{"traza_id": "20261112-025605-255062", "t_ms": 4238.0, "tipo": "traza", "nombre": "fin", "duracion_total_ms": 4238.0}

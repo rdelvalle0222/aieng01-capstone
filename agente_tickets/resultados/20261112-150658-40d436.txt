@@ -1,0 +1,9 @@
+**Carga en tickets EN ESPERA:**
+
+- **Técnico 1**: 82 tickets (99% de la carga)
+- **Técnico 2**: 2 tickets
+- **Técnico 3**: 1 ticket
+- **Técnico 4**: 1 ticket
+- **82 tickets sin grupo técnico asignado**
+
+⚠️ Desbalance crítico: Técnico 1 concentra toda la carga en espera.

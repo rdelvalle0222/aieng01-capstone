@@ -1,0 +1,18 @@
+⚠️ **17 tickets esperando al Proveedor 1** — **Situación crítica:**
+
+• **Total:** 17 tickets (todos EN ESPERA)
+• **Críticos:** 15 tickets
+• **Antiguos extremos:**
+  - T-1135: 397 días pendientes
+  - T-1136: 251 días pendientes
+  - T-1141: 235 días pendientes
+  - T-1144: 215 días pendientes
+  - T-1113: 190 días pendientes
+
+**Impacto por empresa:**
+- Empresa A: 11 tickets
+- Empresa B: 3 tickets
+- Empresa D: 2 tickets
+- Empresa A (domina)
+
+Todos asignados a **Técnico 1**. Se requiere escalonamiento urgente con Proveedor 1.

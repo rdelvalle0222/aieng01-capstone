@@ -1,0 +1,12 @@
+**Carga de tickets EN ESPERA:**
+
+- **Técnico 1**: 82 tickets ⚠️
+- **Técnico 2**: 2 tickets
+- **Técnico 3**: 1 ticket
+- **Técnico 4**: 1 ticket
+
+**Problemas:**
+- ⚠️ **Distribución muy desbalanceada**: Técnico 1 concentra el 95% de los tickets
+- 📌 **82 tickets sin grupo asignado** → están en cola sin reasignar a equipos específicos
+
+**Recomendación:** Reasignar tickets del Técnico 1 a los otros técnicos para equilibrar la carga.

@@ -1,0 +1,10 @@
+**17 tickets esperando respuesta del Proveedor 1**
+
+⚠️ **ALERTA CRÍTICA:** 15 de ellos están en **prioridad crítica** (>30 días pendientes)
+
+**Top 3 más antiguos:**
+- **T-1135**: 397 días (ERP Contabilidad, Empresa A)
+- **T-1136**: 251 días (ERP Facturación, Empresa A)
+- **T-1141**: 235 días (Desarrollo, Empresa A)
+
+Recomendación: **Escalar inmediatamente con Proveedor 1 sobre estos tickets rezagados.**

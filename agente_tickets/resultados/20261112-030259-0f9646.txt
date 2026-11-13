@@ -1,0 +1,7 @@
+**📊 Estado general de tickets:**
+
+- **Total abiertos:** 153 tickets
+- **En espera:** 82 tickets (53.6%)
+- **En curso (asignado):** 71 tickets (46.4%)
+
+⚠️ **Nota importante:** Hay **mucha presión** en la cola. Más de la mitad de los tickets están esperando acción. Te recomiendo consultar tickets críticos o por proveedor para priorizar.

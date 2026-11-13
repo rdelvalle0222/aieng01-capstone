@@ -1,0 +1,9 @@
+✅ **Estado de tickets:**
+
+| Métrica | Cantidad |
+|---------|----------|
+| **Total** | 153 |
+| **En espera** | 82 |
+| **En curso (asignado)** | 71 |
+
+📌 **Observación importante:** Hay **82 tickets en espera**, lo que representa más del 53% del backlog. Recomiendo revisar los **más antiguos y críticos** si necesitas priorizar acciones inmediatas.

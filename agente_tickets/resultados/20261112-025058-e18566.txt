@@ -1,0 +1,9 @@
+📊 **Empresa A - Tickets Críticos EN ESPERA: 43**
+
+| Prioridad | Cantidad |
+|-----------|----------|
+| **Crítica** | **43** |
+| Alta | 8 |
+| Media | 2 |
+
+⚠️ **Alerta:** Los 43 tickets críticos llevan **32 a 656 días pendientes**. El más antiguo es **T-1129** (656 días). Todos están asignados a **Técnico 1**, lo que sugiere una posible saturación.

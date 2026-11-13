@@ -1,0 +1,5 @@
+**43 tickets críticos en espera** en Empresa A (días pendientes >30).
+
+- Más antiguo: T-1129 (656 días)
+- El más reciente crítico: T-1069 (32 días)
+- Todos asignados a Técnico 1

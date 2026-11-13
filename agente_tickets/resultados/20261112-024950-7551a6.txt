@@ -1,0 +1,9 @@
+📊 **Resumen de tickets abiertos:**
+
+- **Total:** 153 tickets
+- **En espera:** 82 tickets
+- **En curso (asignado):** 71 tickets
+
+⚠️ **Observación importante:** Hay una carga desproporcionada en "En espera". Recomiendo revisar los **tickets críticos** y las **prioridades de los pendientes** para optimizar el flujo.
+
+¿Necesitas ver los tickets críticos o la carga por técnico?

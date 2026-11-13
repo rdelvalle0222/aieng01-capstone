@@ -1,0 +1,11 @@
+⚠️ **5 tickets CRÍTICOS escalados al Proveedor 2:**
+
+| ID | Empresa | Días pendientes | Prioridad | Técnico |
+|---|---|---|---|---|
+| **T-1135** | Empresa A | 397 | 🔴 CRÍTICA | Técnico 1 |
+| **T-1110** | Empresa A | 89 | 🔴 CRÍTICA | Técnico 1 |
+| **T-1102** | Empresa D | 76 | 🔴 CRÍTICA | Técnico 1 |
+| **T-1090** | Empresa E | 55 | 🔴 CRÍTICA | Técnico 1 |
+| **T-1065** | Empresa D | 41 | 🔴 CRÍTICA | Técnico 1 |
+
+**Alerta:** T-1135 está **397 días en espera**. Requiere gestión inmediata con el Proveedor 2.

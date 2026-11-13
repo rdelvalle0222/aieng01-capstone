@@ -1,0 +1,12 @@
+**⚠️ Distribución crítica:**
+
+- **Total en espera:** 82 tickets
+- **Carga por técnico:**
+  - Técnico 1: **82 tickets** (sobrecargado)
+  - Técnico 2: 2 tickets
+  - Técnico 3: 1 ticket
+  - Técnico 4: 1 ticket
+
+- **Grupo técnico:** Todos sin asignar (82 tickets)
+
+**Situación:** El Técnico 1 concentra prácticamente toda la carga. Los otros 3 técnicos tienen carga mínima. Además, ningún ticket está asignado a grupo técnico, lo que impide distribución automática.

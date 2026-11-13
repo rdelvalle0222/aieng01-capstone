@@ -1,0 +1,16 @@
+## Estado de tickets - Empresa G
+
+| Métrica | Cantidad |
+|---------|----------|
+| **Total** | 1 |
+| **En espera** | 1 |
+| **En curso** | 0 |
+
+### Ticket pendiente:
+- **T-1152** — Solicitud de soporte - Desarrollo
+  - Estado: En espera
+  - Días pendientes: **384** ⚠️
+  - Prioridad: **CRÍTICA**
+  - Asignado a: Técnico 1
+
+⚠️ Este ticket está **muy atrasado** (más de un año). Requiere atención inmediata.

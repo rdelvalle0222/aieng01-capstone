@@ -1,0 +1,24 @@
+**Carga de trabajo - Análisis crítico:**
+
+📊 **Total en espera:** 82 tickets
+
+**Por técnico:**
+- 🔴 **Técnico 1:** 82 tickets (100% de la carga)
+- ✅ **Técnico 2:** 2 tickets
+- ✅ **Técnico 3:** 1 ticket
+- ✅ **Técnico 4:** 1 ticket
+
+**Por grupo técnico:**
+- ⚠️ **Sin grupo asignado:** 82 tickets
+
+**Problemas identificados:**
+- La carga está **completamente desbalanceada**: Técnico 1 tiene toda la cola
+- 82 tickets sin grupo asignado genera falta de organización
+- Técnicos 2, 3 y 4 están prácticamente ociosos
+
+**Recomendaciones:**
+- Reasignar tickets del Técnico 1 a los demás
+- Organizar en grupos técnicos (por especialidad o empresa)
+- Revisar si hay tickets atascados sin avance
+
+¿Quieres que verifique qué tickets son críticos o cuáles tienen más días pendientes?

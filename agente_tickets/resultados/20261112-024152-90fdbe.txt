@@ -1,0 +1,23 @@
+**✓ Verificación completada. Los datos son correctos.**
+
+## Tickets esperando Proveedor 1:
+
+**Total: 17 tickets en espera**
+
+**Por prioridad:**
+- 🔴 **Crítica: 14 tickets** (47-397 días pendientes)
+- 🟠 **Alta: 1 ticket** (20 días)
+- 🟡 **Media: 1 ticket** (12 días)
+
+**Los más antiguos (> 150 días):**
+- T-1135: 397 días | Empresa A
+- T-1136: 251 días | Empresa A
+- T-1141: 235 días | Empresa A
+- T-1144: 215 días | Empresa A
+- T-1105: 194 días | Empresa A
+- T-1113: 190 días | Empresa A
+- T-1127: 188 días | Empresa B
+- T-1143: 169 días | Empresa B
+- T-1132: 152 días | Empresa A
+
+⚠️ **Atención:** Hay tickets críticos con más de 6 meses en espera. Requiere escalada inmediata con Proveedor 1.

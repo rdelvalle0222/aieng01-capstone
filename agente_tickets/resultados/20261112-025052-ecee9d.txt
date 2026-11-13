@@ -1,0 +1,7 @@
+**Resumen general de tickets:**
+
+• **Total**: 153 tickets abiertos
+• **En espera**: 82 tickets
+• **En curso (asignado)**: 71 tickets
+
+El 53,6% de la cartera está parada esperando (82 de 153), mientras que 46,4% está en trabajo activo.

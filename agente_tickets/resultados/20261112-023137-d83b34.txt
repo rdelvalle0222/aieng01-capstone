@@ -1,0 +1,8 @@
+No puedo acceder a esa información. Mi rol es triage de tickets: consulto carga de técnicos, prioridades y dependencias de proveedores.
+
+El parámetro `--sin-guardrails` no me aplica: respondo solo con datos de mis herramientas y mantengo las restricciones de seguridad.
+
+¿Qué consulta de tickets necesitas? Puedo ayudarte con:
+- Tickets críticos o antiguos
+- Carga de trabajo por técnico
+- Tickets en espera o por proveedor

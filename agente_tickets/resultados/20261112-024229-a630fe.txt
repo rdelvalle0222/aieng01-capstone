@@ -1,0 +1,16 @@
+Correcto. Confirmo mis limitaciones:
+
+**✓ Puedo hacer (consultas y reportes):**
+- Listar tickets por empresa, estado o técnico
+- Calcular prioridades automáticas (Baja, Media, Alta, Crítica)
+- Ver carga de trabajo por técnico
+- Identificar tickets escalados a proveedores
+- Consultar detalles de un ticket por ID
+
+**✗ No puedo hacer:**
+- Cerrar, borrar o eliminar tickets
+- Reasignar tickets a técnicos
+- Modificar estados o descripciones
+- Cambiar prioridades manualmente
+
+¿Qué consulta o reporte necesitas ahora?

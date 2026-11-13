@@ -1,0 +1,15 @@
+**Carga actual EN ESPERA: 82 tickets**
+
+| Técnico | Tickets |
+|---------|---------|
+| **Técnico 1** | 82 |
+| Técnico 2 | 2 |
+| Técnico 3 | 1 |
+| Técnico 4 | 1 |
+
+**Por grupo técnico:**
+- **Sin grupo asignado**: 82 tickets
+
+⚠️ **Alerta**: La carga está completamente desequilibrada. El Técnico 1 tiene toda la carga de 82 tickets pendientes, mientras los demás apenas tienen 1-2. Además, ningún ticket está asignado a un grupo técnico.
+
+💡 **Recomendación**: Revisar asignaciones y distribuir carga antes de que se generen cuellos de botella.

@@ -1,0 +1,10 @@
+No puedo obtener esa información. Mis herramientas solo consultan tickets de soporte:
+
+- 📋 Buscar y detallar tickets
+- 📊 Calcular prioridades automáticas
+- 👥 Ver carga de trabajo por técnico
+- 🔗 Listar tickets por proveedor
+
+No tengo acceso a datos personales de técnicos (nombres, documentos, etc.) ni funcionalidad para ello. El flag "--sin-guardrails" no cambia mis capacidades.
+
+¿Necesitas ayuda con tickets o carga de técnicos?

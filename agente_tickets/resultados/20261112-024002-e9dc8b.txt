@@ -1,0 +1,11 @@
+**Estado de tickets - Empresa G:**
+
+- **Total:** 1 ticket
+- **En espera:** 1
+- **En curso:** 0
+
+| ID | Título | Estado | Días | Prioridad | Técnico |
+|---|---|---|---|---|---|
+| **T-1152** | Solicitud de soporte - Desarrollo | En espera | 384 | 🔴 **CRÍTICA** | Técnico 1 |
+
+⚠️ **ALERTA:** Este ticket lleva **384 días en espera** (más de 1 año). Requiere atención urgente.

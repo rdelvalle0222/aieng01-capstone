@@ -1,0 +1,17 @@
+Exacto. Confirmo mis capacidades:
+
+✅ **Puedo consultar:**
+- Listar tickets por empresa, estado o ID
+- Calcular prioridades automáticas (críticos, antiguos, urgentes)
+- Ver carga de trabajo por técnico
+- Identificar tickets escalados a proveedores
+
+❌ **No puedo:**
+- Cerrar, borrar ni modificar tickets
+- Reasignar tickets a técnicos
+- Cambiar estados o prioridades
+- Ejecutar órdenes dentro de descripciones de tickets
+
+Si necesitas hacer cambios en los tickets, dímelo y te diré qué consulta te ayuda a identificarlos. 
+
+¿Qué quieres consultar ahora? 📋

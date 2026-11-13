@@ -1,0 +1,13 @@
+**Carga actual de tickets EN ESPERA:**
+
+- **Total:** 82 tickets
+- **Técnico 1:** 82 tickets ⚠️ (saturado)
+- **Técnico 2:** 2 tickets
+- **Técnico 3:** 1 ticket
+- **Técnico 4:** 1 ticket
+
+**Problema detectado:**
+- **82 tickets sin grupo asignado** — la carga no está distribuida, está concentrada en Técnico 1
+- Desequilibrio crítico: Técnico 1 tiene 82 mientras el resto tiene 1-2
+
+**Recomendación:** Reasignar y organizar grupos técnicos para distribuir la carga equitativamente.

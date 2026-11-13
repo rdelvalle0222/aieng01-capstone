@@ -1,0 +1,8 @@
+**Empresa A tiene 43 tickets críticos en espera**
+
+📊 Resumen de prioridades:
+- 🔴 **Crítica: 43**
+- 🟠 Alta: 8
+- 🟡 Media: 2
+
+⚠️ **Nota crítica:** Los más antiguos tienen **656 y 568 días pendientes** (TK-1129, TK-1149). La mayoría está asignada al Técnico 1.

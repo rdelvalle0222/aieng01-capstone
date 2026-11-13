@@ -1,0 +1,6 @@
+**71 tickets en curso, todos asignados a Técnico 1:**
+
+- **Rango antigüedad:** 11–215 días
+- **Críticos:** T-1089 (215 d), T-1091 (97 d), T-1125 (118 d), T-1121 (106 d) — excepto por estos, la mayoría entre 11–35 días
+- **Muestra reciente:** T-1000, T-1001, T-1002 (11 d cada uno)
+- **Antiguo extremo:** T-1089 – ERP Facturación Repuestos (Empresa A, 215 d pendientes)

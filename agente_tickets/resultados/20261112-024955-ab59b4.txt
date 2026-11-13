@@ -1,0 +1,13 @@
+**Empresa A: 43 tickets críticos en espera** ⚠️
+
+**Resumen por prioridad:**
+- 🔴 **Crítica:** 43 tickets (>30 días pendientes)
+- 🟠 **Alta:** 8 tickets (≤30 días)
+- 🟡 **Media:** 2 tickets (≤15 días)
+
+**Casos más antiguos:**
+- T-1129: 656 días pendientes
+- T-1149: 568 días pendientes
+- T-1148: 404 días pendientes
+
+Todos asignados a **Técnico 1** (saturación grave). Necesita escalada inmediata.

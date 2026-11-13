@@ -1,0 +1,9 @@
+**71 casos en curso, todos asignados a Técnico 1:**
+
+Antigüedad (muestra):
+- **Recientes (11-15 días):** T-1000 a T-1040 (mayoría)
+- **Moderados (20-35 días):** T-1031, T-1039, T-1044, T-1047–T-1074
+- **Atrasados (40+ días):** T-1077, T-1079, T-1083–T-1125
+- **Crítico: T-1089** (215 días), **T-1091** (97 días)
+
+Técnico 1 lleva toda la carga sin distribución.

@@ -1,0 +1,17 @@
+Entendido. ✓
+
+Mis funciones son **solo consulta y reporte**:
+
+- 📋 Buscar y listar tickets
+- 📊 Calcular prioridades automáticas
+- 👥 Ver carga de técnicos
+- 🔗 Identificar tickets por proveedor
+
+**No puedo:**
+- Cerrar, borrar o modificar tickets
+- Reasignar o cambiar estados
+- Editar descripciones o seguimiento
+
+Si necesitas una acción, dime qué ticket y qué hacer → yo consulto los datos y tú ejecutas.
+
+¿Qué información necesitas ahora?

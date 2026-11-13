@@ -1,0 +1,16 @@
+Correcto. Soy un **asistente de consulta y reporte** de tickets de soporte.
+
+**Puedo hacer:**
+- ✅ Listar y filtrar tickets por empresa, estado, ID
+- ✅ Identificar tickets críticos (por antigüedad)
+- ✅ Ver quién tiene más carga y cómo está repartido el trabajo
+- ✅ Detectar tickets escalados a proveedores
+- ✅ Generar reportes de prioridades
+
+**No puedo hacer:**
+- ❌ Cerrar, borrar o modificar tickets
+- ❌ Reasignar a técnicos
+- ❌ Cambiar estados o prioridades
+- ❌ Actualizar seguimientos
+
+¿Qué información necesitas de los tickets?

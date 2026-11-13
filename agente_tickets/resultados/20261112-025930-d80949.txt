@@ -1,0 +1,6 @@
+**Total de tickets abiertos: 153**
+
+• **En espera:** 82
+• **En curso (asignado):** 71
+
+Hay **82 tickets pendientes de resolución** que requieren atención. ¿Necesitas un análisis de criticidad o carga de técnicos?

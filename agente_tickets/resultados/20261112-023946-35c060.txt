@@ -1,0 +1,11 @@
+**Escalados a Proveedor 2: 5 tickets (todos CRÍTICOS)**
+
+| ID | Empresa | Días | Prioridad |
+|---|---|---|---|
+| **T-1065** | Empresa D | 41 | Crítica |
+| **T-1090** | Empresa E | 55 | Crítica |
+| **T-1102** | Empresa D | 76 | Crítica |
+| **T-1110** | Empresa A | 89 | Crítica |
+| **T-1135** | Empresa A | 397 | **⚠️ EXTREMADAMENTE ATRASADO** |
+
+⚠️ **Situación grave:** El ticket **T-1135** lleva **397 días en espera** escalado al Proveedor 2. Los 5 tickets son críticos y asignados al Técnico 1. Requiere seguimiento urgente con el proveedor.

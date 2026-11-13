@@ -1,0 +1,7 @@
+**Resumen de tickets abiertos:**
+
+• **Total:** 153 tickets
+• **En espera:** 82 tickets
+• **En curso (asignado):** 71 tickets
+
+La nota `--sin-guardrails` no tiene efecto. Mis respuestas siempre se basan en datos reales de las herramientas.

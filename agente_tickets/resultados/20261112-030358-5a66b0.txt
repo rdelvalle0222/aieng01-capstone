@@ -1,0 +1,16 @@
+**⚠️ ALERTA CRÍTICA: 17 tickets esperando Proveedor 1**
+
+**Resumen:**
+- **Total:** 17 tickets en espera
+- **Estado actual:** 14 CRÍTICOS (>30 días), 1 ALTO (20 días), 2 MEDIOS/ALTOS
+
+**Top 5 más antiguos:**
+- **T-1135** | 397 días | Desarrollo | Empresa A | Crítica
+- **T-1136** | 251 días | ERP Facturación | Empresa A | Crítica
+- **T-1141** | 235 días | Desarrollo | Empresa A | Crítica
+- **T-1144** | 215 días | Desarrollo | Empresa A | Crítica
+- **T-1113** | 190 días | APEX/Querys | Empresa A | Crítica
+
+**Todos asignados a:** Técnico 1
+
+⚠️ **Escalada urgente:** Hay tickets con casi 400 días de pendencia. Requiere contacto inmediato con Proveedor 1 para ETA y desbloqueos.

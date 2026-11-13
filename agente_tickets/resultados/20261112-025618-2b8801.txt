@@ -1,0 +1,22 @@
+🚨 **17 tickets en espera del Proveedor 1** (todos asignados a Técnico 1):
+
+**Situación crítica: 13 tickets CRÍTICA**
+- **T-1135**: 397 días pendientes (¡muy antiguo!)
+- **T-1136**: 251 días
+- **T-1141**: 235 días
+- **T-1144**: 215 días
+- **T-1113**: 190 días
+- **T-1127**: 188 días
+- **T-1132**: 152 días
+- **T-1133**: 145 días
+- **T-1116**: 145 días
+- **T-1108**: 88 días
+- **T-1102**: 76 días
+- **T-1099**: 84 días
+- **T-1080**: 47 días
+
+**Otros:**
+- 1 ticket **Alta**: T-1045 (20 días)
+- 1 ticket **Media**: T-1014 (12 días)
+
+⚠️ **Recomendación**: Escalar contacto con Proveedor 1 por el volumen y antigüedad extrema.

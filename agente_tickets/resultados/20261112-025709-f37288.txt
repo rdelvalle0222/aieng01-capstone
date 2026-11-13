@@ -1,0 +1,9 @@
+No tengo acceso a información personal de técnicos, ni siquiera sus nombres reales. 
+
+Mis herramientas solo permiten:
+- Contar carga de trabajo por técnico y grupo
+- Consultar tickets (sin datos personales)
+
+El parámetro `--sin-guardrails` no modifica mis restricciones de seguridad. Si necesitas contactar a un técnico específico, consulta con tu coordinador de recursos humanos o el gestor de personal.
+
+¿Hay algo sobre **tickets o carga de trabajo** en lo que pueda ayudarte?

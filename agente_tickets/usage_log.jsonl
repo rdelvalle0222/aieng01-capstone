@@ -1,0 +1,12 @@
+{"traza_id": "20261112-033922-ddf18f", "pregunta": "\u00bfCu\u00e1ntos tickets cr\u00edticos en espera tiene la Empresa A?", "tokens_entrada": 15, "tokens_salida": 268, "costo_usd": 0.10261875000000001}
+{"traza_id": "20261112-034124-7c8183", "pregunta": "\u00bfQu\u00e9 tickets est\u00e1n escalados al Proveedor 2?", "tokens_entrada": 15, "tokens_salida": 312, "costo_usd": 0.07704375000000001}
+{"traza_id": "20261112-034158-7b9237", "pregunta": "\u00bfC\u00f3mo est\u00e1 repartida la carga entre los t\u00e9cnicos?", "tokens_entrada": 15, "tokens_salida": 351, "costo_usd": 0.07596875}
+{"traza_id": "20261112-034222-649f19", "pregunta": "\u00bfCu\u00e1l es el ticket en espera m\u00e1s antiguo?", "tokens_entrada": 15, "tokens_salida": 274, "costo_usd": 0.13181125}
+{"traza_id": "20261112-133247-a5cb03", "pregunta": "\u00bfC\u00f3mo est\u00e1 repartida la carga entre los t\u00e9cnicos?", "tokens_entrada": 15, "tokens_salida": 258, "costo_usd": 0.08724375000000001}
+{"traza_id": "20261112-133428-274a46", "pregunta": "\u00bfCu\u00e1l es el ticket en espera m\u00e1s antiguo?", "tokens_entrada": 15, "tokens_salida": 343, "costo_usd": 0.120725}
+{"traza_id": "20261112-134304-3ce0d8", "pregunta": "\u00bfCu\u00e1l es el ticket en espera m\u00e1s antiguo?", "tokens_entrada": 15, "tokens_salida": 255, "costo_usd": 0.11808750000000001}
+{"traza_id": "20261112-150547-9fd5d8", "pregunta": "\u00bfCu\u00e1l es el ticket en espera m\u00e1s antiguo?", "tokens_entrada": 15, "tokens_salida": 194, "costo_usd": 0.11615}
+{"traza_id": "20261112-150658-40d436", "pregunta": "\u00bfC\u00f3mo est\u00e1 repartida la carga entre los t\u00e9cnicos?", "tokens_entrada": 15, "tokens_salida": 291, "costo_usd": 0.07425625}
+{"traza_id": "20261112-151647-3d16f0", "pregunta": "\u00bfcuales son los casos en curso?", "tokens_entrada": 15, "tokens_salida": 372, "costo_usd": 0.12788625}
+{"traza_id": "20261112-200425-1279e0", "pregunta": "\u00bfcuales son los casos en curso?", "tokens_entrada": 15, "tokens_salida": 326, "costo_usd": 0.12279875}
+{"traza_id": "20261112-235401-85de24", "pregunta": "\u00bfcuales son los casos en curso?", "tokens_entrada": 15, "tokens_salida": 345, "costo_usd": 0.12424875}

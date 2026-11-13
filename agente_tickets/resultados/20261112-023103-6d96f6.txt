@@ -1,0 +1,11 @@
+**Escalados a Proveedor 2:**
+
+| ID | Título | Empresa | Días | Prioridad |
+|---|---|---|---|---|
+| **TK-1135** | Solicitud de soporte - Desarrollo | Empresa A | **397 días** ⚠️ | CRÍTICA |
+| **TK-1110** | Solicitud de soporte - APEX/Querys | Empresa A | 89 días | CRÍTICA |
+| **TK-1102** | Solicitud de soporte - Aplicativos | Empresa D | 76 días | CRÍTICA |
+| **TK-1090** | Solicitud de soporte - ERP Cuentas por Cobrar | Empresa E | 55 días | CRÍTICA |
+| **TK-1065** | Solicitud de soporte - Otras plataformas | Empresa D | 41 días | CRÍTICA |
+
+**⚠️ ALERTA:** Todos los 5 tickets son **CRÍTICOS** y asignados al **Técnico 1**. El **TK-1135 lleva 397 días pendiente** — requiere intervención urgente con el Proveedor 2.

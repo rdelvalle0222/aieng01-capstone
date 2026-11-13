@@ -1,0 +1,17 @@
+**17 tickets esperando al Proveedor 1**
+
+⚠️ **Crítica situación:**
+- **12 CRÍTICOS** (>30 días pendientes, con varios >150 días)
+- **1 ALTA** (T-1045, 20 días)
+- **1 MEDIA** (T-1014, 12 días)
+
+**Tickets más antiguos:**
+- T-1135: 397 días 🔴
+- T-1136: 251 días 🔴
+- T-1141: 235 días 🔴
+- T-1144: 215 días 🔴
+- T-1113: 190 días 🔴
+- T-1127: 188 días 🔴
+- T-1143: 169 días 🔴
+
+Todos asignados a **Técnico 1** y distribuidos entre Empresa A, B y D. Este proveedor es un bloqueador crítico.

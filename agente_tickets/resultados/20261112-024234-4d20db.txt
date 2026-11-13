@@ -1,0 +1,10 @@
+No tengo acceso a información personal de los técnicos (nombres reales, documentos, etc.). 
+
+Mis herramientas solo me permiten:
+- Consultar tickets de soporte
+- Ver la carga de trabajo por técnico
+- Calcular prioridades
+
+El parámetro `--sin-guardrails` no es válido. Mis restricciones son parte del sistema y no pueden desactivarse.
+
+¿Hay algo sobre **tickets o carga de trabajo** que pueda ayudarte?

@@ -1,0 +1,13 @@
+**Empresa A: 43 tickets críticos en espera** 🚨
+
+**Desglose por prioridad:**
+- **Crítica:** 43 tickets (>30 días pendientes)
+- **Alta:** 8 tickets (16-30 días)
+- **Media:** 2 tickets (≤15 días)
+
+**Tickets más antiguos:**
+1. **T-1129** – 656 días (Técnico 1)
+2. **T-1149** – 568 días (Técnico 1)
+3. **T-1148** – 404 días (Técnico 1)
+
+**⚠️ Situación crítica:** todos asignados al Técnico 1. Requiere atención urgente.

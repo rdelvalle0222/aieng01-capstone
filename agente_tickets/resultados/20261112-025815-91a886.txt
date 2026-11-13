@@ -1,0 +1,15 @@
+⚠️ **Situación CRÍTICA**: 17 tickets esperando al Proveedor 1
+
+📊 **Desglose por prioridad:**
+- **13 Críticos** (>30 días)
+- **1 Alta** (≤30 días): T-1045
+- **1 Media** (≤15 días): T-1014
+- **2 Baja** (≤5 días): ninguno
+
+🔴 **ANTIGUOS (urgentes):**
+- T-1135: 397 días | Desarrollo | Empresa A
+- T-1136: 251 días | ERP Facturación | Empresa A
+- T-1141: 235 días | Desarrollo | Empresa A
+- T-1144: 215 días | Desarrollo | Empresa A
+
+**Acción recomendada**: Escalar con Proveedor 1 inmediatamente. Todos menos 2 tickets están vencidos por >30 días.

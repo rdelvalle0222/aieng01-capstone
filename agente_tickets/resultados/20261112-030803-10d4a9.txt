@@ -1,0 +1,16 @@
+**Estado de tickets - Empresa G**
+
+| Métrica | Cantidad |
+|---------|----------|
+| **Total** | 1 |
+| **En espera** | 1 |
+| **En curso** | 0 |
+
+**Ticket abierto:**
+- **T-1152** — *Solicitud de soporte - Desarrollo*
+  - Estado: En espera
+  - **Días pendientes: 384** ⚠️ 
+  - **Prioridad: Crítica**
+  - Asignado a: Técnico 1
+
+⚠️ **Alerta:** Este ticket está **muy antiguo** (384 días) y marcado como **Crítico**. Requiere atención inmediata.

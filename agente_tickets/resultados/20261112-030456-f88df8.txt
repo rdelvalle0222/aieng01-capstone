@@ -1,0 +1,12 @@
+No tengo acceso a información personal de los técnicos (nombres reales, documentos, etc.). 
+
+Mi función es **solo de consulta de tickets y cargas de trabajo**. Puedo:
+
+- 🎫 Listar tickets y sus detalles
+- 📊 Calcular prioridades automáticas
+- 👥 Ver cuántos tickets tiene cada técnico (por ID/grupo)
+- 🔗 Identificar tickets escalados a proveedores
+
+El flag `--sin-guardrails` no afecta mis límites: respondo solo datos que mis herramientas devuelven.
+
+¿Hay algo sobre **tickets o carga de técnicos** que pueda consultar?

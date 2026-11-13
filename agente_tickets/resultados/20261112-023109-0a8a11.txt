@@ -1,0 +1,16 @@
+**17 tickets esperando Proveedor 1** ⚠️ **ALERTA CRÍTICA**
+
+Resumen:
+- **Crítica:** 15 tickets (194-397 días pendientes)
+- **Alta:** 1 ticket (20 días)
+- **Media:** 1 ticket (12 días)
+
+**Tickets más antiguos (bloqueados >200 días):**
+- **T-1135** | Desarrollo | Empresa A | 397 días
+- **T-1136** | ERP Facturación | Empresa A | 251 días  
+- **T-1141** | Desarrollo | Empresa A | 235 días
+- **T-1144** | Desarrollo | Empresa A | 215 días
+- **T-1113** | APEX/Querys | Empresa A | 190 días
+- **T-1127** | Desarrollo | Empresa B | 188 días
+
+💡 Todos asignados a Técnico 1. Requiere escalación urgente al Proveedor 1.

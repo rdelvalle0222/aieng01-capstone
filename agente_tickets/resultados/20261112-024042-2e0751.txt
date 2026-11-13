@@ -1,0 +1,9 @@
+**⚠️ 5 tickets escalados al Proveedor 2 — TODOS CRÍTICOS:**
+
+- **T-1065** (Empresa D) — 41 días | *Técnico 1*
+- **T-1090** (Empresa E) — 55 días | *Técnico 1*
+- **T-1102** (Empresa D) — 76 días | *Técnico 1*
+- **T-1110** (Empresa A) — 89 días | *Técnico 1*
+- **T-1135** (Empresa A) — 397 días ⚠️ **MUY ANTIGUO** | *Técnico 1*
+
+**Acción urgente:** T-1135 lleva casi 13 meses pendiente. Revisar estado con Proveedor 2.

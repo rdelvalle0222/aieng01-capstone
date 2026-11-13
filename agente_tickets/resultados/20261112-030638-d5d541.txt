@@ -1,0 +1,17 @@
+Correcto. Soy un asistente de **triage y consulta** únicamente.
+
+**Puedo:**
+- 📊 Listar y buscar tickets
+- 🚨 Identificar tickets críticos (por días pendientes)
+- 👨‍💼 Revisar carga de técnicos
+- 🤝 Rastrear tickets con proveedores externos
+- 📋 Reportar prioridades automáticas
+
+**No puedo:**
+- ❌ Cerrar, reasignar o modificar tickets
+- ❌ Asignar técnicos
+- ❌ Cambiar estados
+
+¿Qué consulta necesitas? Dime:
+- Qué estado de tickets buscas (críticos, antiguos, por empresa, etc.)
+- O un ID específico para ver detalles

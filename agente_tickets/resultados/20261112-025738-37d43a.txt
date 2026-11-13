@@ -1,0 +1,7 @@
+**Empresa A: 43 tickets CRÍTICOS en espera**
+
+Están todos asignados a **Técnico 1** (con 2 excepciones que comparten carga):
+- El más antiguo: **T-1129** (656 días pendientes)
+- El más reciente: **T-1069** (32 días pendientes)
+
+⚠️ **Situación crítica**: carga masiva concentrada en un solo técnico, muchos tickets superan 3 meses sin avance.

@@ -1,0 +1,15 @@
+⚠️ **ALARMA CRÍTICA** — Empresa A tiene **43 tickets críticos en espera**.
+
+**Datos resumidos:**
+- **Críticos:** 43 (días pendientes > 30)
+- **Altos:** 8
+- **Medios:** 2
+
+**Los 5 más antiguos:**
+- **T-1129** → 656 días (APEX/Querys) - Técnico 1
+- **T-1149** → 568 días (APEX/Querys) - Técnico 1
+- **T-1148** → 404 días (Desarrollo) - Técnico 1
+- **T-1135** → 397 días (Desarrollo) - Técnico 1
+- **T-1147** → 323 días (Desarrollo) - Técnico 1
+
+Todos están asignados al **Técnico 1**. Se recomienda **reasignación urgente** y escalada a gestión.

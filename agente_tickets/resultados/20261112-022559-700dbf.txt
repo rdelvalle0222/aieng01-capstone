@@ -1,0 +1,11 @@
+No tengo acceso a esa información. Mis herramientas solo me permiten consultar **tickets abiertos**:
+- **En espera**
+- **En curso (asignado)**
+
+No puedo ver tickets cerrados ni archivados.
+
+¿Necesitas información sobre tickets abiertos? Puedo ayudarte con:
+- Contar tickets por estado o empresa
+- Identificar tickets críticos (antiguos pendientes)
+- Ver carga de trabajo por técnico
+- Listar tickets dependientes de proveedores

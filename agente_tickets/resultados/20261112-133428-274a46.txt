@@ -1,0 +1,3 @@
+**T-1129** — Empresa A, 656 días en espera, **CRÍTICA**
+- Solicitud de soporte - APEX/Querys
+- Asignado: Técnico 1
